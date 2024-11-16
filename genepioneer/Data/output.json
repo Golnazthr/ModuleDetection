@@ -1,0 +1,841 @@
+{
+    "ABL1": {
+        "rank": 3,
+        "modules": []
+    },
+    "ACVR1B": {
+        "rank": 2057,
+        "modules": []
+    },
+    "AKT1": {
+        "rank": 20,
+        "modules": [
+            {
+                "genes": [
+                    "MTOR",
+                    "AKT1",
+                    "IL6",
+                    "ABCA1",
+                    "RPS6KB1",
+                    "CD36",
+                    "TCAP",
+                    "AUTS2",
+                    "ACTR3",
+                    "RAC2"
+                ],
+                "score": 0.8631184675605545
+            }
+        ]
+    },
+    "ALK": {
+        "rank": 215,
+        "modules": []
+    },
+    "APC": {
+        "rank": 30,
+        "modules": []
+    },
+    "AR": {
+        "rank": 125,
+        "modules": []
+    },
+    "ARID1A": {
+        "rank": 59,
+        "modules": []
+    },
+    "ARID1B": {
+        "rank": 347,
+        "modules": []
+    },
+    "ARID2": {
+        "rank": 216,
+        "modules": []
+    },
+    "ASXL1": {
+        "rank": 296,
+        "modules": []
+    },
+    "ATM": {
+        "rank": 16,
+        "modules": []
+    },
+    "ATRX": {
+        "rank": 115,
+        "modules": []
+    },
+    "AXIN1": {
+        "rank": 683,
+        "modules": []
+    },
+    "B2M": {
+        "rank": 1179,
+        "modules": [
+            {
+                "genes": [
+                    "PTPRC",
+                    "SYK",
+                    "PTK2B",
+                    "FGF18",
+                    "MAPK3",
+                    "B2M"
+                ],
+                "score": 0.9107711859471314
+            },
+            {
+                "genes": [
+                    "PTEN",
+                    "SFRP2",
+                    "B2M",
+                    "BLK",
+                    "MTM1"
+                ],
+                "score": 0.8705274048449624
+            }
+        ]
+    },
+    "BAP1": {
+        "rank": 354,
+        "modules": []
+    },
+    "BCL2": {
+        "rank": 51,
+        "modules": []
+    },
+    "BCOR": {
+        "rank": 377,
+        "modules": []
+    },
+    "BRAF": {
+        "rank": 58,
+        "modules": [
+            {
+                "genes": [
+                    "BRAF",
+                    "PBX1",
+                    "RIPK3",
+                    "RAF1",
+                    "TPM1",
+                    "MAP3K5"
+                ],
+                "score": 0.8680916906108379
+            }
+        ]
+    },
+    "BRCA1": {
+        "rank": 77,
+        "modules": []
+    },
+    "BRCA2": {
+        "rank": 70,
+        "modules": []
+    },
+    "CARD11": {
+        "rank": 293,
+        "modules": []
+    },
+    "CASP8": {
+        "rank": 117,
+        "modules": []
+    },
+    "CBL": {
+        "rank": 827,
+        "modules": []
+    },
+    "CDC73": {
+        "rank": 283,
+        "modules": []
+    },
+    "CDH1": {
+        "rank": 503,
+        "modules": []
+    },
+    "CDKN2A": {
+        "rank": 82,
+        "modules": []
+    },
+    "CEBPA": {
+        "rank": 319,
+        "modules": []
+    },
+    "CIC": {
+        "rank": 475,
+        "modules": []
+    },
+    "CREBBP": {
+        "rank": 164,
+        "modules": []
+    },
+    "CRLF2": {
+        "rank": "Not in network",
+        "modules": []
+    },
+    "CSF1R": {
+        "rank": 373,
+        "modules": []
+    },
+    "CTNNB1": {
+        "rank": 9,
+        "modules": [
+            {
+                "genes": [
+                    "CTNNB1",
+                    "NKX6-1",
+                    "SHH",
+                    "GPC3",
+                    "ID4"
+                ],
+                "score": 0.8764759264335573
+            }
+        ]
+    },
+    "CYLD": {
+        "rank": 809,
+        "modules": []
+    },
+    "DAXX": {
+        "rank": 1750,
+        "modules": []
+    },
+    "DNMT1": {
+        "rank": 2397,
+        "modules": []
+    },
+    "DNMT3A": {
+        "rank": 351,
+        "modules": []
+    },
+    "EGFR": {
+        "rank": 153,
+        "modules": [
+            {
+                "genes": [
+                    "ERBB2",
+                    "CDK5",
+                    "EGFR",
+                    "FOS",
+                    "AKT2",
+                    "FCGR2A",
+                    "AVPR1A"
+                ],
+                "score": 0.8542419170786684
+            }
+        ]
+    },
+    "EP300": {
+        "rank": 13,
+        "modules": []
+    },
+    "ERBB2": {
+        "rank": 104,
+        "modules": [
+            {
+                "genes": [
+                    "ERBB2",
+                    "CDK5",
+                    "EGFR",
+                    "FOS",
+                    "AKT2",
+                    "FCGR2A",
+                    "AVPR1A"
+                ],
+                "score": 0.8542419170786684
+            }
+        ]
+    },
+    "EZH2": {
+        "rank": 170,
+        "modules": []
+    },
+    "FAM123B": {
+        "rank": "Not in network",
+        "modules": []
+    },
+    "FBXW7": {
+        "rank": 91,
+        "modules": [
+            {
+                "genes": [
+                    "KRAS",
+                    "TP53",
+                    "FBXW7",
+                    "PML",
+                    "RALGPS1",
+                    "ATF3",
+                    "KIFAP3"
+                ],
+                "score": 0.874253316905976
+            },
+            {
+                "genes": [
+                    "KRAS",
+                    "TP53",
+                    "FBXW7",
+                    "PML",
+                    "BMF",
+                    "RALGPS1",
+                    "ATF3",
+                    "KIFAP3"
+                ],
+                "score": 0.8580323784123344
+            }
+        ]
+    },
+    "FGFR2": {
+        "rank": 40,
+        "modules": [
+            {
+                "genes": [
+                    "FGFR2",
+                    "FGF10",
+                    "EFNB2",
+                    "LHX1",
+                    "SERPINB2"
+                ],
+                "score": 0.8608367164705047
+            }
+        ]
+    },
+    "FGFR3": {
+        "rank": 540,
+        "modules": []
+    },
+    "FLT3": {
+        "rank": 1268,
+        "modules": []
+    },
+    "FOXL2": {
+        "rank": 3838,
+        "modules": []
+    },
+    "FUBP1": {
+        "rank": "Not in network",
+        "modules": []
+    },
+    "GATA1": {
+        "rank": 406,
+        "modules": []
+    },
+    "GATA2": {
+        "rank": 415,
+        "modules": [
+            {
+                "genes": [
+                    "NFE2L2",
+                    "XBP1",
+                    "GATA2",
+                    "ANGPT4",
+                    "RAMP2",
+                    "SMPD3",
+                    "GADD45A"
+                ],
+                "score": 0.8660331953464188
+            }
+        ]
+    },
+    "GATA3": {
+        "rank": 552,
+        "modules": []
+    },
+    "GNA11": {
+        "rank": 4944,
+        "modules": []
+    },
+    "GNAQ": {
+        "rank": 2984,
+        "modules": []
+    },
+    "GNAS": {
+        "rank": 1918,
+        "modules": []
+    },
+    "H3F3A": {
+        "rank": "Not in network",
+        "modules": []
+    },
+    "HIST1H3B": {
+        "rank": "Not in network",
+        "modules": []
+    },
+    "HNF1A": {
+        "rank": 2678,
+        "modules": []
+    },
+    "HRAS": {
+        "rank": 290,
+        "modules": [
+            {
+                "genes": [
+                    "HRAS",
+                    "EYA1",
+                    "NSMCE2",
+                    "G3BP2",
+                    "PDK2",
+                    "FGF2",
+                    "NOG",
+                    "DAG1",
+                    "ITGB3",
+                    "PDGFA",
+                    "IGF1"
+                ],
+                "score": 0.8536594712141791
+            }
+        ]
+    },
+    "IDH1": {
+        "rank": 7885,
+        "modules": []
+    },
+    "IDH2": {
+        "rank": "Not in network",
+        "modules": []
+    },
+    "JAK1": {
+        "rank": 5168,
+        "modules": []
+    },
+    "JAK2": {
+        "rank": 98,
+        "modules": []
+    },
+    "JAK3": {
+        "rank": 2509,
+        "modules": []
+    },
+    "KDM5C": {
+        "rank": 3516,
+        "modules": []
+    },
+    "KDM6A": {
+        "rank": 1124,
+        "modules": []
+    },
+    "KIT": {
+        "rank": 201,
+        "modules": []
+    },
+    "KLF4": {
+        "rank": 108,
+        "modules": []
+    },
+    "KRAS": {
+        "rank": 213,
+        "modules": [
+            {
+                "genes": [
+                    "KRAS",
+                    "TP53",
+                    "FBXW7",
+                    "PML",
+                    "RALGPS1",
+                    "ATF3",
+                    "KIFAP3"
+                ],
+                "score": 0.874253316905976
+            },
+            {
+                "genes": [
+                    "KRAS",
+                    "TP53",
+                    "FBXW7",
+                    "PML",
+                    "BMF",
+                    "RALGPS1",
+                    "ATF3",
+                    "KIFAP3"
+                ],
+                "score": 0.8580323784123344
+            }
+        ]
+    },
+    "MAP2K1": {
+        "rank": 331,
+        "modules": []
+    },
+    "MAP3K1": {
+        "rank": 8711,
+        "modules": []
+    },
+    "MED12": {
+        "rank": 241,
+        "modules": []
+    },
+    "MEN1": {
+        "rank": 237,
+        "modules": []
+    },
+    "MET": {
+        "rank": 245,
+        "modules": []
+    },
+    "MLH1": {
+        "rank": 790,
+        "modules": []
+    },
+    "MLL2": {
+        "rank": "Not in network",
+        "modules": []
+    },
+    "MLL3": {
+        "rank": "Not in network",
+        "modules": []
+    },
+    "MPL": {
+        "rank": 1024,
+        "modules": []
+    },
+    "MSH2": {
+        "rank": 390,
+        "modules": []
+    },
+    "MSH6": {
+        "rank": 455,
+        "modules": []
+    },
+    "MYD88": {
+        "rank": 646,
+        "modules": []
+    },
+    "NCOR1": {
+        "rank": 295,
+        "modules": []
+    },
+    "NF1": {
+        "rank": 2,
+        "modules": [
+            {
+                "genes": [
+                    "NF1",
+                    "THBS1",
+                    "HES5",
+                    "NF2",
+                    "CALCA",
+                    "SRD5A1",
+                    "ADAMTS1",
+                    "DUSP16"
+                ],
+                "score": 0.8654254116416676
+            },
+            {
+                "genes": [
+                    "NF1",
+                    "THBS1",
+                    "NF2",
+                    "CALCA",
+                    "SRD5A1",
+                    "ADAMTS1",
+                    "DUSP16"
+                ],
+                "score": 0.8644834899084625
+            }
+        ]
+    },
+    "NF2": {
+        "rank": 634,
+        "modules": [
+            {
+                "genes": [
+                    "NF1",
+                    "THBS1",
+                    "HES5",
+                    "NF2",
+                    "CALCA",
+                    "SRD5A1",
+                    "ADAMTS1",
+                    "DUSP16"
+                ],
+                "score": 0.8654254116416676
+            },
+            {
+                "genes": [
+                    "NF1",
+                    "THBS1",
+                    "NF2",
+                    "CALCA",
+                    "SRD5A1",
+                    "ADAMTS1",
+                    "DUSP16"
+                ],
+                "score": 0.8644834899084625
+            }
+        ]
+    },
+    "NFE2L2": {
+        "rank": 416,
+        "modules": [
+            {
+                "genes": [
+                    "NFE2L2",
+                    "XBP1",
+                    "GATA2",
+                    "ANGPT4",
+                    "RAMP2",
+                    "SMPD3",
+                    "GADD45A"
+                ],
+                "score": 0.8660331953464188
+            }
+        ]
+    },
+    "NOTCH1": {
+        "rank": 11,
+        "modules": [
+            {
+                "genes": [
+                    "NOTCH1",
+                    "RBPJ",
+                    "PKD1",
+                    "HEG1",
+                    "PTTG1IP",
+                    "IDE"
+                ],
+                "score": 0.8577301096987596
+            }
+        ]
+    },
+    "NOTCH2": {
+        "rank": 111,
+        "modules": [
+            {
+                "genes": [
+                    "NOTCH2",
+                    "CCL2",
+                    "LFNG",
+                    "JAG1",
+                    "EFNA1"
+                ],
+                "score": 0.8580995470845778
+            }
+        ]
+    },
+    "NPM1": {
+        "rank": 122,
+        "modules": []
+    },
+    "NRAS": {
+        "rank": 2611,
+        "modules": []
+    },
+    "PAX5": {
+        "rank": 741,
+        "modules": []
+    },
+    "PBRM1": {
+        "rank": 525,
+        "modules": []
+    },
+    "PDGFRA": {
+        "rank": 49,
+        "modules": [
+            {
+                "genes": [
+                    "PDGFRA",
+                    "PDGFRB",
+                    "IFT172",
+                    "EIF4A3",
+                    "OSM"
+                ],
+                "score": 0.8621780564402906
+            }
+        ]
+    },
+    "PHF6": {
+        "rank": 9169,
+        "modules": []
+    },
+    "PIK3CA": {
+        "rank": 6,
+        "modules": []
+    },
+    "PIK3R1": {
+        "rank": 5,
+        "modules": []
+    },
+    "PPP2R1A": {
+        "rank": 1994,
+        "modules": []
+    },
+    "PRDM1": {
+        "rank": 1231,
+        "modules": []
+    },
+    "PTCH1": {
+        "rank": 21,
+        "modules": [
+            {
+                "genes": [
+                    "PTCH1",
+                    "TGFB1",
+                    "IFT172",
+                    "ARHGDIA",
+                    "TMEM107",
+                    "GATA4"
+                ],
+                "score": 0.8572951159660741
+            }
+        ]
+    },
+    "PTEN": {
+        "rank": 4,
+        "modules": [
+            {
+                "genes": [
+                    "PTEN",
+                    "SFRP2",
+                    "B2M",
+                    "BLK",
+                    "MTM1"
+                ],
+                "score": 0.8705274048449624
+            }
+        ]
+    },
+    "PTPN11": {
+        "rank": 105,
+        "modules": []
+    },
+    "RB1": {
+        "rank": 29,
+        "modules": []
+    },
+    "RET": {
+        "rank": 400,
+        "modules": []
+    },
+    "RNF43": {
+        "rank": 2281,
+        "modules": []
+    },
+    "RUNX1": {
+        "rank": 1872,
+        "modules": []
+    },
+    "SETD2": {
+        "rank": 179,
+        "modules": []
+    },
+    "SETBP1": {
+        "rank": 1309,
+        "modules": []
+    },
+    "SF3B1": {
+        "rank": 663,
+        "modules": []
+    },
+    "SMAD2": {
+        "rank": 385,
+        "modules": []
+    },
+    "SMAD4": {
+        "rank": 95,
+        "modules": []
+    },
+    "SMARCA4": {
+        "rank": 226,
+        "modules": []
+    },
+    "SMARCB1": {
+        "rank": 1166,
+        "modules": []
+    },
+    "SMO": {
+        "rank": 348,
+        "modules": []
+    },
+    "SOCS1": {
+        "rank": 4783,
+        "modules": []
+    },
+    "SOX9": {
+        "rank": 243,
+        "modules": []
+    },
+    "SPOP": {
+        "rank": "Not in network",
+        "modules": []
+    },
+    "SRSF2": {
+        "rank": 8601,
+        "modules": []
+    },
+    "STAG2": {
+        "rank": 799,
+        "modules": []
+    },
+    "STK11": {
+        "rank": 89,
+        "modules": []
+    },
+    "TET2": {
+        "rank": 9176,
+        "modules": []
+    },
+    "TNFAIP3": {
+        "rank": 207,
+        "modules": []
+    },
+    "TRAF7": {
+        "rank": 4983,
+        "modules": []
+    },
+    "TP53": {
+        "rank": 0,
+        "modules": [
+            {
+                "genes": [
+                    "KRAS",
+                    "TP53",
+                    "FBXW7",
+                    "PML",
+                    "RALGPS1",
+                    "ATF3",
+                    "KIFAP3"
+                ],
+                "score": 0.874253316905976
+            },
+            {
+                "genes": [
+                    "KRAS",
+                    "TP53",
+                    "FBXW7",
+                    "PML",
+                    "BMF",
+                    "RALGPS1",
+                    "ATF3",
+                    "KIFAP3"
+                ],
+                "score": 0.8580323784123344
+            }
+        ]
+    },
+    "TSC1": {
+        "rank": 37,
+        "modules": [
+            {
+                "genes": [
+                    "TSC1",
+                    "BBS4",
+                    "CD47",
+                    "SLC1A1",
+                    "FZD10"
+                ],
+                "score": 0.8601434406149057
+            }
+        ]
+    },
+    "TSHR": {
+        "rank": 5539,
+        "modules": []
+    },
+    "U2AF1": {
+        "rank": 9283,
+        "modules": []
+    },
+    "VHL": {
+        "rank": 1098,
+        "modules": []
+    },
+    "WT1": {
+        "rank": 611,
+        "modules": []
+    }
+}
