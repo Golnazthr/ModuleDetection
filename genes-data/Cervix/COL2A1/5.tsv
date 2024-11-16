@@ -1,0 +1,5 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-EW-A2FV	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+TCGA-32-2616	TCGA-GBM	Brain	Female	81	9	2	30	11	3	9	13	1	1	2
+TCGA-AC-A8OR	TCGA-BRCA	Breast	Female	71	8	4	16	11	3	11	14	1	1	2
+TCGA-AZ-6601	TCGA-COAD	Colon	Male	87	11	6	16	11	6	10	18	1	1	4

@@ -1,0 +1,14 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-32-2616	TCGA-GBM	Brain	Female	81	9	2	30	11	3	9	13	1	1	2
+TCGA-O2-A52S	TCGA-LUSC	Bronchus and lung	Female	68	8	4	16	11	3	8	14	1	1	2
+C3L-02125	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+TCGA-RC-A7SK	TCGA-LIHC	Liver and intrahepatic bile ducts	Male	68	6	4	16	11	3	10	14	1	1	2
+C3L-01971	CPTAC-3	Pancreas	Male	60	10	4	35	2	3	0	0	1	1	0
+TCGA-CN-4727	TCGA-HNSC	Larynx	Male	77	10	4	16	11	3	11	17	1	1	3
+TCGA-CR-6480	TCGA-HNSC	Tonsil	Male	73	10	4	16	11	3	10	15	1	1	1
+HCM-BROD-0334-C43	HCMI-CMDC	Skin	Male	30	5	2	14	0	3	1	1	1	1	0
+TCGA-EE-A3AG	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+MMRF_1512	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-AZ-6601	TCGA-COAD	Colon	Male	87	11	6	16	11	6	10	18	1	1	4
+C3N-02971	CPTAC-3	Pancreas	Female	39	8	4	16	2	3	0	0	1	1	0
+TCGA-CV-A45R	TCGA-HNSC	Other and unspecified parts of tongue	Male	71	6	4	16	11	3	10	16	1	1	2

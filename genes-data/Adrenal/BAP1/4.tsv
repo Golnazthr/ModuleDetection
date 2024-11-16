@@ -1,0 +1,33 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-CJ-5680	TCGA-KIRC	Kidney	Female	81	10	8	16	11	3	8	16	1	1	4
+TCGA-G7-A8LE	TCGA-KIRP	Kidney	Male	75	8	4	17	16	3	8	14	1	1	2
+TCGA-YG-AA3O	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+C3L-00416	CPTAC-3	Kidney	Male	56	14	8	16	2	6	0	0	1	1	0
+TCGA-B8-5551	TCGA-KIRC	Kidney	Female	76	9	4	17	14	3	8	16	1	1	4
+TCGA-FB-AAQ1	TCGA-PAAD	Pancreas	Male	79	8	4	18	13	3	9	17	1	1	3
+TCGA-4G-AAZO	TCGA-CHOL	Liver and intrahepatic bile ducts	Female	70	8	4	16	11	3	9	15	1	1	3
+C3L-02841	CPTAC-3	Kidney	Male	51	12	8	16	2	3	0	0	1	1	0
+TCGA-BH-A0HF	TCGA-BRCA	Breast	Female	67	6	4	16	8	3	11	15	1	1	3
+TCGA-A5-A1OF	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	2	1	2
+TCGA-DD-A73G	TCGA-LIHC	Liver and intrahepatic bile ducts	Female	73	8	4	16	11	3	10	16	1	1	4
+TCGA-BP-4962	TCGA-KIRC	Kidney	Male	72	6	4	16	11	6	8	16	1	1	4
+TCGA-YD-A89C	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+TCGA-91-6830	TCGA-LUAD	Bronchus and lung	Female	76	8	4	16	11	3	8	21	1	1	3
+TCGA-A3-3308	TCGA-KIRC	Kidney	Female	102	13	6	31	16	6	8	17	1	1	5
+TCGA-LL-A9Q3	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+C3N-02716	CPTAC-3	Other and ill-defined sites	Male	48	11	6	16	2	3	0	0	1	1	0
+TCGA-49-4506	TCGA-LUAD	Bronchus and lung	Female	84	8	4	16	11	6	8	26	2	1	8
+TCGA-CG-4437	TCGA-STAD	Stomach	Male	72	8	4	16	11	3	8	17	1	1	3
+TCGA-A5-A0G2	TCGA-UCEC	Corpus uteri	Female	69	8	4	16	9	3	11	17	3	1	3
+TCGA-V4-A9F8	TCGA-UVM	Eye and adnexa	Male	77	10	4	18	13	3	9	14	1	1	2
+C3L-02856	CPTAC-3	Kidney	Female	39	8	4	16	2	3	0	0	2	1	0
+HCM-BROD-0834-C43	HCMI-CMDC	Skin	Male	71	12	4	32	4	6	1	0	1	1	0
+TCGA-CC-5260	TCGA-LIHC	Liver and intrahepatic bile ducts	Female	73	10	4	16	11	3	10	14	1	1	2
+C3L-00792	CPTAC-3	Kidney	Female	39	8	4	16	2	3	0	0	1	1	0
+TCGA-BR-8361	TCGA-STAD	Stomach	Female	72	8	4	16	11	3	8	17	1	1	3
+TCGA-V4-A9F0	TCGA-UVM	Eye and adnexa	Male	77	10	4	18	13	3	9	14	1	1	2
+C3L-01929	CPTAC-3	Kidney	Male	39	8	4	16	2	3	0	0	1	1	0
+C3N-01214	CPTAC-3	Kidney	Male	105	24	16	32	4	9	0	0	1	1	0
+TCGA-B0-5075	TCGA-KIRC	Kidney	Female	72	6	4	16	11	6	8	16	1	1	4
+C3L-00677	CPTAC-3	Brain	Female	39	8	4	16	2	3	0	0	1	1	0
+C3N-03425	CPTAC-3	Bronchus and lung	Female	55	13	8	16	2	6	0	0	1	1	0

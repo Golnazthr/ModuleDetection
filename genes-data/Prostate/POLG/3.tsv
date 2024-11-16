@@ -1,0 +1,27 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-17-Z018	TCGA-LUAD	Bronchus and lung	--	42	2	0	14	0	3	6	17	1	1	0
+TCGA-A5-A0GP	TCGA-UCEC	Corpus uteri	Female	66	4	4	16	11	3	11	17	1	1	3
+TCGA-21-1079	TCGA-LUSC	Bronchus and lung	Male	68	6	4	16	11	3	8	15	1	1	3
+TCGA-GL-A4EM	TCGA-KIRP	Kidney	Male	71	10	4	16	11	3	8	14	1	1	2
+TCGA-EE-A3AF	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+TCGA-D7-A6EY	TCGA-STAD	Stomach	Female	73	10	4	16	11	3	8	16	1	1	2
+TCGA-BR-4361	TCGA-STAD	Stomach	Female	77	8	4	16	11	6	8	19	1	1	5
+TCGA-64-5775	TCGA-LUAD	Bronchus and lung	Male	76	9	4	16	11	3	8	21	1	1	3
+TCGA-FW-A3TU	TCGA-SKCM	Skin	Female	66	6	4	16	11	3	8	14	1	1	2
+C3N-01765	CPTAC-3	Uterus, NOS	Female	62	17	10	16	2	3	0	0	1	1	0
+TCGA-A6-2686	TCGA-COAD	Colon	Female	97	12	6	18	19	6	9	18	1	1	4
+TCGA-EE-A182	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+C3N-00151	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+TCGA-CV-5441	TCGA-HNSC	Larynx	Male	77	8	4	16	11	6	10	17	1	1	3
+TCGA-XF-AAMG	TCGA-BLCA	Bladder	Male	73	10	4	16	11	3	10	14	1	1	2
+TCGA-A5-A0G2	TCGA-UCEC	Corpus uteri	Female	69	8	4	16	9	3	11	17	3	1	3
+HCM-CSHL-0729-C18	HCMI-CMDC	Colon	Female	69	12	4	32	4	3	1	1	1	1	0
+TCGA-AF-5654	TCGA-READ	Rectosigmoid junction	Female	85	12	6	17	14	0	9	18	1	1	4
+C3L-02449	CPTAC-3	Uterus, NOS	Female	43	12	6	14	0	3	0	0	1	1	0
+TCGA-2Y-A9H9	TCGA-LIHC	Liver and intrahepatic bile ducts	Male	70	8	4	16	11	3	10	14	1	1	2
+C3N-00435	CPTAC-3	Kidney	Male	56	14	8	16	2	6	0	0	1	1	0
+TCGA-P3-A5QF	TCGA-HNSC	Gum	Male	72	8	4	16	11	3	10	16	1	1	2
+TCGA-CV-7427	TCGA-HNSC	Other and ill-defined sites in lip, oral cavity and pharynx	Female	72	6	4	16	11	3	10	17	1	1	3
+TCGA-AA-3531	TCGA-COAD	Colon	Female	88	8	6	18	17	6	10	18	1	1	4
+TCGA-XF-AAML	TCGA-BLCA	Bladder	Male	74	10	4	16	11	3	11	14	1	1	2
+TCGA-AJ-A3BK	TCGA-UCEC	Corpus uteri	Female	72	6	4	16	11	3	11	16	1	1	2

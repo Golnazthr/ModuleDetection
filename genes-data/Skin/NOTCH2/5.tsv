@@ -1,0 +1,31 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-CN-6018	TCGA-HNSC	Other and ill-defined sites in lip, oral cavity and pharynx	Female	76	10	4	16	11	3	10	17	1	1	3
+TCGA-CG-4437	TCGA-STAD	Stomach	Male	72	8	4	16	11	3	8	17	1	1	3
+TCGA-A5-A0G2	TCGA-UCEC	Corpus uteri	Female	69	8	4	16	9	3	11	17	6	1	3
+TARGET-30-PASPER	TARGET-NBL	Retroperitoneum and peritoneum	Female	31	5	2	14	0	3	2	1	1	1	0
+TCGA-EY-A1GS	TCGA-UCEC	Corpus uteri	Female	70	8	4	16	11	3	11	16	1	1	2
+TCGA-33-4538	TCGA-LUSC	Bronchus and lung	Male	77	6	4	16	11	3	8	25	1	1	13
+MMRF_1931	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	52	12	4	28	0	0	0	0	1	1	0
+TCGA-3N-A9WD	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+C3N-03882	CPTAC-3	Bronchus and lung	Male	55	13	8	16	2	6	0	0	1	1	0
+HCM-SANG-0270-C20	HCMI-CMDC	Rectum	Female	130	23	8	52	10	9	1	1	1	1	0
+TCGA-GN-A4U3	TCGA-SKCM	Skin	Male	66	6	4	16	11	3	8	14	1	1	2
+TCGA-BR-8361	TCGA-STAD	Stomach	Female	72	8	4	16	11	3	8	17	1	1	3
+TCGA-IN-A6RS	TCGA-STAD	Stomach	Male	72	10	4	16	11	3	8	15	1	1	1
+TCGA-EE-A2M5	TCGA-SKCM	Skin	Male	71	10	4	16	11	3	8	14	1	1	2
+TCGA-BK-A13B	TCGA-UCEC	Corpus uteri	Female	82	9	4	18	13	3	11	17	1	1	3
+TCGA-AA-3672	TCGA-COAD	Colon	Female	66	4	4	16	11	3	10	17	1	1	3
+MP2PRT-PAVJUN	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Female	36	7	2	16	2	0	3	0	1	1	0
+TCGA-AP-A1E1	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+TCGA-CN-4727	TCGA-HNSC	Larynx	Male	77	10	4	16	11	3	11	17	1	1	3
+TCGA-CV-7427	TCGA-HNSC	Other and ill-defined sites in lip, oral cavity and pharynx	Female	72	6	4	16	11	3	10	17	1	1	3
+TCGA-39-5011	TCGA-LUSC	Bronchus and lung	Female	72	6	4	16	11	6	8	16	1	1	4
+TCGA-CD-5798	TCGA-STAD	Stomach	Male	74	10	4	16	11	3	8	17	1	1	3
+TCGA-FD-A6TI	TCGA-BLCA	Bladder	Male	74	10	4	16	11	3	11	14	1	1	2
+TCGA-AO-A03T	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	15	1	1	3
+C3N-01411	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+17OV025	CPTAC-2	Retroperitoneum and peritoneum	Female	28	6	4	14	0	0	0	0	1	1	0
+TCGA-50-6590	TCGA-LUAD	Bronchus and lung	Female	77	8	4	16	11	3	8	22	1	1	4
+TCGA-AZ-6601	TCGA-COAD	Colon	Male	87	11	6	16	11	6	10	18	1	1	4
+05CO032	CPTAC-2	Colon	Male	28	6	4	14	0	0	0	0	1	1	0
+C3L-02399	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0

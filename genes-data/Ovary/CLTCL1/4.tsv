@@ -1,0 +1,16 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-21-1080	TCGA-LUSC	Bronchus and lung	Male	68	6	4	16	11	3	8	15	1	1	3
+TCGA-33-4547	TCGA-LUSC	Bronchus and lung	Male	76	6	4	16	11	3	8	23	1	1	11
+TCGA-3N-A9WD	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+TCGA-XF-A9SX	TCGA-BLCA	Bladder	Female	73	10	4	16	11	3	10	14	1	1	2
+TCGA-04-1357	TCGA-OV	Ovary	Female	70	8	4	16	11	3	9	14	1	1	2
+MMRF_2352	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-WP-A9GB	TCGA-SARC	Corpus uteri	Female	72	10	4	16	11	3	9	14	1	1	2
+TCGA-EB-A431	TCGA-SKCM	Skin	Male	69	8	4	16	11	3	8	14	1	1	2
+TCGA-AP-A1E1	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+HCM-BROD-0334-C43	HCMI-CMDC	Skin	Male	30	5	2	14	0	3	1	1	1	1	0
+HCM-CSHL-0257-C18	HCMI-CMDC	Colon	Male	38	7	2	16	2	3	1	1	1	1	0
+TCGA-FV-A23B	TCGA-LIHC	Liver and intrahepatic bile ducts	Female	87	12	8	16	11	6	10	15	1	1	3
+C3L-02602	CPTAC-3	Uterus, NOS	Female	62	17	10	16	2	3	0	0	1	1	0
+TCGA-CV-6936	TCGA-HNSC	Floor of mouth	Male	95	13	8	17	14	6	10	18	2	1	4
+TCGA-C8-A26Y	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2

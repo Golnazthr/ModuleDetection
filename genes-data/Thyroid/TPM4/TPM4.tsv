@@ -1,0 +1,86 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-TQ-A7RU	TCGA-LGG	Brain	Male	68	8	4	16	11	3	8	14	1	1	2
+C3L-02954	CPTAC-3	Bronchus and lung	Female	55	13	8	16	2	6	0	0	2	1	0
+TCGA-AA-3977	TCGA-COAD	Colon	Male	84	10	4	30	11	3	9	17	1	1	3
+TCGA-AG-A02N	TCGA-READ	Rectum	Male	85	5	4	30	11	6	9	19	1	1	5
+C3N-01843	CPTAC-3	Uterus, NOS	Female	42	11	6	14	0	3	0	0	1	1	0
+MP2PRT-PAVENE	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Female	36	7	2	16	2	0	3	0	1	1	0
+TCGA-A4-A57E	TCGA-KIRP	Kidney	Male	89	15	8	17	14	3	8	15	1	1	3
+TCGA-56-A49D	TCGA-LUSC	Bronchus and lung	Male	67	8	4	16	11	3	8	13	1	1	1
+TCGA-4R-AA8I	TCGA-LIHC	Liver and intrahepatic bile ducts	Male	71	8	4	16	11	3	11	14	1	1	2
+TCGA-86-8056	TCGA-LUAD	Bronchus and lung	Female	75	7	4	16	11	3	8	21	1	1	3
+TCGA-AP-A1DV	TCGA-UCEC	Corpus uteri	Female	66	6	4	16	9	3	11	16	1	1	2
+TCGA-B5-A0JR	TCGA-UCEC	Corpus uteri	Female	74	8	4	16	11	3	11	17	1	1	3
+TCGA-AG-A002	TCGA-READ	Rectum	Male	66	8	4	16	7	3	9	18	1	1	4
+11CO018	CPTAC-2	Colon	Male	28	6	4	14	0	0	0	0	1	1	0
+TCGA-BC-A10Q	TCGA-LIHC	Liver and intrahepatic bile ducts	Female	88	12	8	16	11	6	10	16	1	1	4
+TCGA-AA-3864	TCGA-COAD	Colon	Male	67	6	4	16	11	3	9	17	1	1	3
+TCGA-CG-4460	TCGA-STAD	Stomach	Female	75	10	4	16	11	3	9	17	1	1	3
+TCGA-AP-A1DK	TCGA-UCEC	Corpus uteri	Female	67	6	4	16	11	3	11	16	1	1	2
+HCM-BROD-0027-C34	HCMI-CMDC	Bronchus and lung	Female	72	12	4	32	4	6	1	1	1	1	0
+TCGA-EO-A22X	TCGA-UCEC	Corpus uteri	Female	72	6	4	16	11	3	11	16	1	1	2
+C3N-01814	CPTAC-3	Brain	Female	45	9	9	16	2	3	0	0	1	1	0
+TCGA-EO-A22R	TCGA-UCEC	Corpus uteri	Female	72	6	4	16	11	6	11	17	1	1	3
+HCM-SANG-0288-C18	HCMI-CMDC	Colon	Male	55	12	4	18	4	3	1	1	1	1	0
+TCGA-B5-A0K2	TCGA-UCEC	Corpus uteri	Female	69	6	4	16	11	3	11	17	1	1	3
+TCGA-D3-A8GC	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+TCGA-ZF-AA4N	TCGA-BLCA	Bladder	Male	73	10	4	16	11	3	10	14	1	1	2
+TCGA-AA-3510	TCGA-COAD	Colon	Male	71	6	4	16	11	6	9	18	1	1	4
+TCGA-D1-A1O7	TCGA-UCEC	Corpus uteri	Female	67	6	4	16	11	3	11	16	1	1	2
+TCGA-FR-A729	TCGA-SKCM	Skin	Female	64	5	2	16	11	3	8	14	1	1	2
+TCGA-FS-A1ZF	TCGA-SKCM	Skin	Female	68	8	4	16	11	3	9	13	1	1	1
+TCGA-06-5416	TCGA-GBM	Brain	Female	66	7	2	16	9	3	9	15	1	1	3
+TCGA-2W-A8YY	TCGA-CESC	Cervix uteri	Female	73	8	4	16	11	3	10	16	1	1	2
+TCGA-3N-A9WC	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+C3N-01858	CPTAC-3	Other and ill-defined sites	Male	48	11	6	16	2	3	0	0	1	1	0
+TCGA-BG-A222	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+TCGA-55-A490	TCGA-LUAD	Bronchus and lung	Male	74	8	4	16	11	3	8	20	1	1	2
+ER-ABO1	EXCEPTIONAL_RESPONDERS-ER	Ovary	Female	29	6	2	14	0	0	2	1	1	1	0
+TCGA-EY-A2OQ	TCGA-UCEC	Corpus uteri	Female	72	6	4	16	11	3	11	16	1	1	2
+TCGA-05-4397	TCGA-LUAD	Bronchus and lung	Male	79	11	4	16	11	3	8	21	1	1	3
+TCGA-E6-A1LX	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+TCGA-E2-A1LG	TCGA-BRCA	Breast	Female	77	8	4	16	11	3	12	18	1	1	6
+TCGA-61-2101	TCGA-OV	Ovary	Female	70	6	4	16	11	3	9	16	1	1	4
+C3L-01631	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+TCGA-56-7730	TCGA-LUSC	Bronchus and lung	Male	79	10	8	16	11	3	8	14	1	1	2
+TCGA-DK-AA75	TCGA-BLCA	Bladder	Male	70	10	4	16	8	3	11	13	1	1	1
+TCGA-AD-A5EJ	TCGA-COAD	Colon	Female	73	9	4	16	11	3	9	16	1	1	2
+C3N-02675	CPTAC-3	Bronchus and lung	Male	53	14	8	16	2	3	0	0	1	1	0
+TCGA-IR-A3LK	TCGA-CESC	Cervix uteri	Female	75	10	4	16	11	3	10	16	1	1	2
+TCGA-BR-7901	TCGA-STAD	Stomach	Male	70	10	4	16	7	3	8	17	1	1	3
+TCGA-EE-A2MP	TCGA-SKCM	Skin	Female	69	8	4	16	11	3	8	14	1	1	2
+TCGA-ZB-A96K	TCGA-THYM	Thymus	Male	70	8	4	16	11	3	10	14	1	1	2
+MMRF_1722	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-KQ-A41R	TCGA-BLCA	Bladder	Female	70	8	4	16	11	3	10	13	1	1	1
+TCGA-DU-6392	TCGA-LGG	Brain	Female	72	10	4	16	11	3	8	15	1	1	3
+TCGA-IG-A5B8	TCGA-ESCA	Esophagus	Male	78	8	4	18	13	3	9	16	1	1	2
+C3N-02274	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+TCGA-AA-3821	TCGA-COAD	Colon	Female	64	4	4	16	11	3	9	17	1	1	3
+TCGA-CV-A6K2	TCGA-HNSC	Other and unspecified parts of mouth	Male	72	8	4	16	11	3	10	16	1	1	2
+MMRF_2438	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+C3N-02636	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+C3N-03849	CPTAC-3	Other and ill-defined sites	Male	55	13	8	16	2	6	0	0	1	1	0
+TCGA-F1-6177	TCGA-STAD	Stomach	Male	75	10	4	16	11	3	9	17	1	1	3
+MMRF_1193	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	36	10	4	14	0	0	0	0	1	1	0
+TCGA-DF-A2KZ	TCGA-UCEC	Corpus uteri	Female	74	8	4	16	11	3	11	16	1	1	2
+HCM-BROD-0594-C43	HCMI-CMDC	Skin	Male	71	12	4	32	4	6	1	0	1	1	0
+TCGA-W3-AA1R	TCGA-SKCM	Skin	Male	66	6	4	16	11	3	8	14	1	1	2
+MMRF_2041	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+MMRF_1726	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-ER-A193	TCGA-SKCM	Skin	Male	70	8	4	16	11	3	9	14	1	1	2
+TCGA-B5-A3FC	TCGA-UCEC	Corpus uteri	Female	74	8	4	16	11	3	11	16	1	1	2
+TARGET-30-PARZIP	TARGET-NBL	Kidney	Male	31	5	2	14	0	3	2	1	1	1	0
+TCGA-D1-A103	TCGA-UCEC	Corpus uteri	Female	69	6	4	16	11	3	11	17	2	1	3
+TCGA-HJ-7597	TCGA-STAD	Stomach	Female	73	10	4	16	11	3	8	16	1	1	2
+TCGA-ET-A3BW	TCGA-THCA	Thyroid gland	Female	72	8	4	16	11	3	11	14	1	1	2
+MMRF_2141	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-EE-A3AB	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+TCGA-D1-A15Z	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+C3N-00151	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+MBCProject_3717	CMI-MBC	Breast	Female	73	13	6	42	0	0	0	0	1	1	0
+MMRF_2574	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TARGET-10-PAPAGV	TARGET-ALL-P2	Hematopoietic and reticuloendothelial systems	Female	20	2	0	14	0	0	3	1	1	1	0
+TCGA-A5-A0G2	TCGA-UCEC	Corpus uteri	Female	69	8	4	16	9	3	11	17	4	1	3
+TCGA-EW-A1OX	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+TCGA-K4-A5RJ	TCGA-BLCA	Bladder	Male	73	10	4	16	11	3	10	14	1	1	2
+HCM-BROD-0334-C43	HCMI-CMDC	Skin	Male	30	5	2	14	0	3	1	1	1	1	0

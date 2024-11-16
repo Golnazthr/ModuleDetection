@@ -1,0 +1,28 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-HU-A4GN	TCGA-STAD	Stomach	Male	86	13	8	17	12	3	8	17	1	1	3
+TCGA-AN-A0FJ	TCGA-BRCA	Breast	Female	73	8	4	16	11	3	11	15	1	1	3
+TCGA-YG-AA3O	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+TCGA-AG-3891	TCGA-READ	Rectum	Female	45	4	0	14	0	0	9	17	1	1	3
+TCGA-BR-7703	TCGA-STAD	Stomach	Male	90	13	8	17	14	3	8	18	1	1	4
+HCM-BROD-0681-C71	HCMI-CMDC	Brain	Male	68	12	4	32	4	3	1	0	1	1	0
+TARGET-40-PATEEM	TARGET-OS	Bones, joints and articular cartilage of limbs	Male	31	5	2	14	1	3	3	1	1	1	0
+TCGA-A5-A1OF	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	3	1	2
+TCGA-L5-A88V	TCGA-ESCA	Esophagus	Male	69	6	4	16	11	3	9	16	1	1	2
+TCGA-55-1592	TCGA-LUAD	Bronchus and lung	Male	95	8	4	30	11	6	9	22	1	1	4
+TCGA-YD-A89C	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+TCGA-A6-2686	TCGA-COAD	Colon	Female	97	12	6	18	19	6	9	18	1	1	4
+C3N-00151	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+TCGA-HU-A4H3	TCGA-STAD	Stomach	Female	66	6	4	16	9	3	8	15	1	1	1
+TCGA-A5-A0G2	TCGA-UCEC	Corpus uteri	Female	69	8	4	16	9	3	11	17	3	1	3
+TCGA-63-A5MM	TCGA-LUSC	Bronchus and lung	Female	69	8	4	16	11	3	8	14	1	1	2
+MMRF_1687	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	18	4	0	14	0	0	0	0	1	1	0
+MMRF_2098	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-GN-A4U3	TCGA-SKCM	Skin	Male	66	6	4	16	11	3	8	14	1	1	2
+TCGA-EE-A2M5	TCGA-SKCM	Skin	Male	71	10	4	16	11	3	8	14	1	1	2
+TCGA-BK-A13B	TCGA-UCEC	Corpus uteri	Female	82	9	4	18	13	3	11	17	1	1	3
+TCGA-CN-4727	TCGA-HNSC	Larynx	Male	77	10	4	16	11	3	11	17	1	1	3
+TCGA-CV-7102	TCGA-HNSC	Floor of mouth	Female	74	8	4	16	11	3	10	17	1	1	3
+HCM-BROD-0334-C43	HCMI-CMDC	Skin	Male	30	5	2	14	0	3	1	1	1	1	0
+HCM-CSHL-0257-C18	HCMI-CMDC	Colon	Male	38	7	2	16	2	3	1	1	1	1	0
+TCGA-AX-A2H4	TCGA-UCEC	Corpus uteri	Female	76	8	4	16	11	6	11	16	1	1	2
+TCGA-C8-A26Y	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2

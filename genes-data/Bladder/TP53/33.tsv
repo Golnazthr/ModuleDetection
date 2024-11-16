@@ -1,0 +1,101 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+C3N-01346	CPTAC-3	Uterus, NOS	Female	53	14	8	16	2	3	0	0	1	1	0
+TCGA-IB-A6UF	TCGA-PAAD	Pancreas	Male	74	10	4	16	11	3	9	16	1	1	2
+TCGA-55-A491	TCGA-LUAD	Bronchus and lung	Female	74	7	4	16	11	3	9	20	1	1	2
+TCGA-CV-6962	TCGA-HNSC	Larynx	Male	95	13	8	17	14	6	10	18	1	1	4
+2252	BEATAML1.0-COHORT	Hematopoietic and reticuloendothelial systems	Female	16	2	0	14	0	0	0	0	1	1	0
+TCGA-EE-A2GT	TCGA-SKCM	Skin	Male	71	10	4	16	11	3	8	14	1	1	2
+TCGA-29-1776	TCGA-OV	Ovary	Female	68	6	4	16	11	3	9	14	1	1	2
+TCGA-OL-A5RW	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+TCGA-BH-A0B7	TCGA-BRCA	Breast	Female	96	13	8	17	14	6	11	17	1	1	5
+TCGA-NH-A8F8	TCGA-COAD	Colon	Male	79	9	4	18	13	3	9	16	1	1	2
+C3N-00516	CPTAC-3	Pancreas	Male	61	10	4	32	4	3	0	0	1	1	0
+TCGA-CC-A7IG	TCGA-LIHC	Liver and intrahepatic bile ducts	Male	71	8	4	16	11	3	10	14	1	1	2
+HCM-CSHL-0322-C20	HCMI-CMDC	Rectum	Female	72	12	4	32	4	6	1	1	1	1	0
+TCGA-PL-A8LV	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+TCGA-E2-A1LH	TCGA-BRCA	Breast	Female	82	10	8	16	11	3	11	15	1	1	3
+TCGA-29-2434	TCGA-OV	Ovary	Female	56	2	0	16	11	3	9	14	1	1	2
+TCGA-FG-A6J3	TCGA-LGG	Brain	Female	73	8	4	16	11	3	8	18	1	1	6
+TARGET-40-PAMJXS	TARGET-OS	Bones, joints and articular cartilage of limbs	Male	36	7	2	14	2	3	3	1	1	1	0
+TCGA-V5-A7RB	TCGA-ESCA	Esophagus	Male	71	8	4	16	11	3	9	16	1	1	2
+TCGA-VR-AA7I	TCGA-ESCA	Esophagus	Male	70	8	4	16	10	3	9	16	1	1	2
+TCGA-66-2791	TCGA-LUSC	Bronchus and lung	Male	79	6	4	17	16	6	8	17	1	1	5
+MMRF_2705	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-HU-8238	TCGA-STAD	Stomach	Male	89	14	8	17	14	3	8	17	1	1	3
+TCGA-56-6545	TCGA-LUSC	Bronchus and lung	Female	70	8	4	16	11	3	8	15	1	1	3
+TCGA-AA-3968	TCGA-COAD	Colon	Female	69	8	4	16	11	3	9	17	1	1	3
+TCGA-25-2401	TCGA-OV	Ovary	Female	71	8	4	16	11	3	9	15	1	1	3
+HCM-BROD-0194-C15	HCMI-CMDC	Esophagus	Male	56	8	2	30	2	6	1	1	1	1	0
+TCGA-BR-7723	TCGA-STAD	Stomach	Male	74	10	4	16	11	3	8	17	1	1	3
+TCGA-55-8092	TCGA-LUAD	Bronchus and lung	Male	77	8	4	17	14	3	8	19	1	1	1
+TCGA-D5-6922	TCGA-COAD	Colon	Male	73	8	4	16	11	3	9	17	1	1	3
+TCGA-CV-7424	TCGA-HNSC	Larynx	Male	92	13	8	17	14	3	10	18	1	1	4
+TCGA-18-3408	TCGA-LUSC	Bronchus and lung	Female	74	8	4	16	11	6	8	17	1	1	5
+TCGA-DH-A7UT	TCGA-LGG	Brain	Male	68	8	4	16	11	3	8	14	1	1	2
+TCGA-DU-7007	TCGA-LGG	Brain	Male	72	10	4	16	11	3	8	15	1	1	3
+TCGA-C4-A0EZ	TCGA-BLCA	Bladder	Female	73	8	4	16	11	3	11	15	1	1	3
+TCGA-OL-A6VO	TCGA-BRCA	Breast	Female	70	6	4	16	11	3	11	14	1	1	2
+TCGA-DD-A114	TCGA-LIHC	Liver and intrahepatic bile ducts	Male	93	13	8	17	14	6	10	16	1	1	4
+TCGA-CV-7245	TCGA-HNSC	Larynx	Male	95	13	8	17	14	6	10	18	1	1	4
+TCGA-BH-A0B3	TCGA-BRCA	Breast	Female	97	16	8	17	14	6	11	16	1	1	4
+HCM-CSHL-0162-C19	HCMI-CMDC	Rectum	Male	72	12	4	32	4	6	1	1	1	1	0
+TCGA-86-8279	TCGA-LUAD	Bronchus and lung	Male	74	6	4	16	11	3	8	21	1	1	3
+TCGA-BS-A0UF	TCGA-UCEC	Corpus uteri	Female	71	8	4	16	11	3	11	17	1	1	3
+TCGA-04-1360	TCGA-OV	Ovary	Female	56	2	0	16	11	3	9	14	1	1	2
+TCGA-KN-8433	TCGA-KICH	Kidney	Female	84	12	8	16	11	3	9	16	1	1	4
+TCGA-FB-A5VM	TCGA-PAAD	Pancreas	Male	72	8	4	16	11	3	9	16	1	1	2
+C3N-04127	CPTAC-3	Bronchus and lung	Male	55	13	8	16	2	6	0	0	2	1	0
+TCGA-AA-3976	TCGA-COAD	Rectosigmoid junction	Male	67	6	4	16	11	3	10	17	1	1	3
+HCM-CSHL-0511-C24	HCMI-CMDC	Other and unspecified parts of biliary tract	Female	53	8	2	30	2	3	1	1	1	1	0
+TCGA-BR-8486	TCGA-STAD	Stomach	Female	71	9	4	16	11	3	8	15	1	1	1
+TCGA-39-5034	TCGA-LUSC	Bronchus and lung	Female	72	6	4	16	11	6	8	16	1	1	4
+C3N-01349	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	2	1	0
+TCGA-NG-A4VU	TCGA-UCS	Uterus, NOS	Female	73	8	4	16	11	3	9	17	1	1	3
+TCGA-E2-A1LS	TCGA-BRCA	Breast	Female	79	10	8	15	3	6	11	17	1	1	5
+TCGA-13-0888	TCGA-OV	Ovary	Female	75	8	4	18	13	3	9	13	1	1	2
+TCGA-21-5784	TCGA-LUSC	Bronchus and lung	Female	70	8	4	16	11	3	8	15	1	1	3
+C3N-03456	CPTAC-3	Other and ill-defined sites	Male	48	11	6	16	2	3	0	0	1	1	0
+TCGA-3B-A9HT	TCGA-SARC	Other and unspecified parts of tongue	Male	69	8	4	16	11	3	9	14	1	1	2
+TCGA-49-AARQ	TCGA-LUAD	Bronchus and lung	Female	73	6	4	16	11	3	8	21	1	1	3
+TCGA-E9-A22G	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+C3N-02590	CPTAC-3	Pancreas	Female	76	11	4	46	4	3	0	0	1	1	0
+TCGA-33-AASL	TCGA-LUSC	Bronchus and lung	Female	67	6	4	16	11	3	8	15	1	1	3
+TCGA-AX-A0IU	TCGA-UCEC	Corpus uteri	Female	69	6	4	16	11	3	11	18	1	1	4
+TARGET-50-PAJNUP	TARGET-WT	Kidney	Female	39	7	4	19	0	3	3	1	1	1	0
+01OV023	CPTAC-2	Retroperitoneum and peritoneum	Female	28	6	4	14	0	0	0	0	1	1	0
+02OV008	CPTAC-2	Ovary	Female	28	6	4	14	0	0	0	0	1	1	0
+C3N-01997	CPTAC-3	Pancreas	Male	66	12	4	32	4	6	0	0	1	1	0
+TCGA-SS-A7HO	TCGA-COAD	Colon	Female	79	9	4	18	13	3	9	16	1	1	2
+TCGA-CM-4750	TCGA-COAD	Rectosigmoid junction	Female	61	6	4	16	5	3	9	17	1	1	3
+MBCProject_3554	CMI-MBC	Breast	Female	25	5	2	14	0	0	0	0	1	1	0
+TCGA-AF-A56N	TCGA-READ	Rectosigmoid junction	Female	72	8	4	16	11	3	9	16	1	1	2
+TCGA-XK-AAIW	TCGA-PRAD	Prostate gland	Male	68	8	4	16	11	3	8	14	1	1	2
+TCGA-QM-A5NM	TCGA-UCS	Uterus, NOS	Female	73	8	4	16	11	3	10	17	1	1	3
+C3L-02669	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+TCGA-HB-A5W3	TCGA-SARC	Retroperitoneum and peritoneum	Female	73	10	4	16	11	3	10	14	1	1	2
+TCGA-VS-A9UT	TCGA-CESC	Cervix uteri	Female	72	8	4	16	11	3	10	16	1	1	2
+TCGA-79-5596	TCGA-LUSC	Bronchus and lung	Male	69	8	4	16	11	3	8	14	1	1	2
+TCGA-CV-6950	TCGA-HNSC	Base of tongue	Male	72	6	4	16	11	3	10	17	1	1	3
+C3N-02087	CPTAC-3	Bronchus and lung	Female	56	14	8	16	2	6	0	0	1	1	0
+TCGA-MI-A75G	TCGA-LIHC	Liver and intrahepatic bile ducts	Male	70	8	4	16	11	3	10	14	1	1	2
+TCGA-AC-A2BK	TCGA-BRCA	Breast	Female	73	8	4	16	11	3	11	15	1	1	3
+TCGA-A1-A0SI	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	15	1	1	3
+TCGA-CV-5979	TCGA-HNSC	Other and unspecified parts of tongue	Male	75	6	4	16	11	6	10	17	1	1	3
+TCGA-HZ-8637	TCGA-PAAD	Pancreas	Female	77	8	4	18	13	3	9	16	1	1	2
+TCGA-D8-A1JG	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+C3N-04382	CPTAC-3	Bronchus and lung	Female	55	13	8	16	2	6	0	0	1	1	0
+TCGA-HT-7611	TCGA-LGG	Brain	Male	70	8	4	16	11	3	8	15	2	1	3
+TCGA-IW-A3M5	TCGA-SARC	Uterus, NOS	Female	71	10	4	16	11	3	9	13	1	1	1
+HCM-CSHL-0803-C54	HCMI-CMDC	Corpus uteri	Female	37	7	2	16	2	3	1	0	1	1	0
+ASCProject_0134	CMI-ASC	Skin	Female	32	3	0	28	0	0	1	0	1	1	0
+TCGA-HZ-A4BH	TCGA-PAAD	Pancreas	Male	69	6	4	16	11	3	9	16	1	1	2
+C3N-02423	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+TCGA-AA-A02E	TCGA-COAD	Colon	Female	64	5	4	16	7	3	9	19	1	1	5
+TCGA-EI-6512	TCGA-READ	Rectum	Female	73	8	4	16	11	3	9	17	1	1	3
+TCGA-A6-6782	TCGA-COAD	Colon	Male	72	8	4	16	11	3	9	16	1	1	2
+C3L-01703	CPTAC-3	Pancreas	Male	76	15	8	35	2	6	0	0	1	1	0
+TCGA-DM-A1HA	TCGA-COAD	Colon	Male	70	6	4	16	11	3	9	16	1	1	2
+TCGA-D7-6526	TCGA-STAD	Stomach	Female	74	10	4	16	11	3	8	18	1	1	4
+TCGA-BF-A3DL	TCGA-SKCM	Skin	Female	69	8	4	16	11	3	8	14	1	1	2
+TCGA-ZN-A9VP	TCGA-MESO	Heart, mediastinum, and pleura	Male	74	8	4	18	13	3	9	13	1	1	1
+TCGA-FP-A4BE	TCGA-STAD	Stomach	Male	68	8	4	16	8	3	8	17	2	1	3

@@ -1,0 +1,6 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-D9-A148	TCGA-SKCM	Skin	Male	71	10	4	16	11	3	8	14	1	1	2
+C3L-00677	CPTAC-3	Brain	Female	39	8	4	16	2	3	0	0	1	1	0
+TCGA-RD-A8NB	TCGA-STAD	Stomach	Female	68	8	4	16	8	3	8	16	1	1	2
+TCGA-C8-A26Y	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+C3L-02399	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0

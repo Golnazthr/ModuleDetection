@@ -1,0 +1,31 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-CG-4437	TCGA-STAD	Stomach	Male	72	8	4	16	11	3	8	17	2	1	3
+TCGA-59-2352	TCGA-OV	Ovary	Female	70	8	4	16	11	3	9	14	1	1	2
+TCGA-A5-A0G2	TCGA-UCEC	Corpus uteri	Female	69	8	4	16	9	3	11	17	8	1	3
+TCGA-DD-A1EB	TCGA-LIHC	Liver and intrahepatic bile ducts	Female	91	15	8	14	14	6	10	15	1	1	3
+TCGA-33-4538	TCGA-LUSC	Bronchus and lung	Male	77	6	4	16	11	3	8	25	1	1	13
+TCGA-3N-A9WD	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+TCGA-75-7027	TCGA-LUAD	Bronchus and lung	Male	76	8	4	16	11	3	8	21	1	1	3
+C3L-02856	CPTAC-3	Kidney	Female	39	8	4	16	2	3	0	0	1	1	0
+TCGA-22-5473	TCGA-LUSC	Bronchus and lung	Male	71	6	4	16	11	6	8	15	2	1	3
+TCGA-GN-A268	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	2	1	2
+TCGA-17-Z013	TCGA-LUAD	Bronchus and lung	--	42	2	0	14	0	3	6	17	1	1	0
+TCGA-DD-AACL	TCGA-LIHC	Liver and intrahepatic bile ducts	Female	77	9	4	18	13	3	10	14	2	1	2
+HCM-CSHL-0729-C18	HCMI-CMDC	Colon	Female	69	12	4	32	4	3	1	1	1	1	0
+TCGA-39-5036	TCGA-LUSC	Bronchus and lung	Male	71	6	4	16	11	6	8	16	1	1	4
+TARGET-15-SJMPAL017975	TARGET-ALL-P3	Hematopoietic and reticuloendothelial systems	Male	53	12	6	28	0	0	2	1	1	1	0
+TCGA-DY-A1DC	TCGA-READ	Rectosigmoid junction	Female	72	8	4	16	11	3	9	16	1	1	2
+TCGA-EE-A2M5	TCGA-SKCM	Skin	Male	71	10	4	16	11	3	8	14	1	1	2
+MMRF_2587	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-BR-A453	TCGA-STAD	Stomach	Male	69	6	4	16	11	3	8	16	1	1	2
+TCGA-CV-7427	TCGA-HNSC	Other and ill-defined sites in lip, oral cavity and pharynx	Female	72	6	4	16	11	3	10	17	1	1	3
+TCGA-RG-A7D4	TCGA-LIHC	Liver and intrahepatic bile ducts	Male	71	8	4	16	11	3	10	14	1	1	2
+HCM-BROD-0334-C43	HCMI-CMDC	Skin	Male	30	5	2	14	0	3	1	1	2	1	0
+TCGA-EB-A3XF	TCGA-SKCM	Skin	Male	76	9	4	18	13	3	8	14	2	1	2
+TCGA-CN-A6V1	TCGA-HNSC	Tonsil	Male	73	8	4	16	11	3	11	15	1	1	1
+TCGA-TM-A7C4	TCGA-LGG	Brain	Female	68	8	4	16	11	3	8	14	1	1	2
+TCGA-EQ-5647	TCGA-STAD	Stomach	Female	72	10	2	17	14	3	8	18	1	1	4
+MMRF_2477	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	18	4	0	14	0	0	0	0	1	1	0
+TCGA-EE-A2GE	TCGA-SKCM	Skin	Male	66	6	4	16	11	3	8	14	1	1	2
+TCGA-91-6848	TCGA-LUAD	Bronchus and lung	Male	75	7	4	16	11	3	8	21	1	1	3
+TCGA-50-6590	TCGA-LUAD	Bronchus and lung	Female	77	8	4	16	11	3	8	22	1	1	4

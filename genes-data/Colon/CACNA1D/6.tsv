@@ -1,0 +1,9 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-AP-A1E1	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+TCGA-CV-7427	TCGA-HNSC	Other and ill-defined sites in lip, oral cavity and pharynx	Female	72	6	4	16	11	3	10	17	1	1	3
+TCGA-EB-A3XF	TCGA-SKCM	Skin	Male	76	9	4	18	13	3	8	14	1	1	2
+TCGA-62-A471	TCGA-LUAD	Bronchus and lung	Male	73	6	4	16	11	3	8	20	1	1	2
+TCGA-EE-A3AG	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+MP2PRT-PARNTW	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Female	36	7	2	16	2	0	3	0	1	1	0
+TCGA-50-6590	TCGA-LUAD	Bronchus and lung	Female	77	8	4	16	11	3	8	22	2	1	4
+TCGA-KK-A6E4	TCGA-PRAD	Prostate gland	Male	68	6	4	16	11	3	8	15	1	1	3

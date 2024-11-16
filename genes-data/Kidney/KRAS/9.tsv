@@ -1,0 +1,101 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-AA-A02K	TCGA-COAD	Colon	Male	70	8	4	16	6	3	9	19	1	1	5
+MP2PRT-PATCEA	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Male	36	7	2	16	2	0	3	0	1	1	0
+TCGA-HZ-A77Q	TCGA-PAAD	Pancreas	Female	72	8	4	16	11	3	10	16	1	1	2
+HCM-CSHL-0063-C18	HCMI-CMDC	Colon	Male	72	12	4	32	4	6	1	1	1	1	0
+C3L-03388	CPTAC-3	Pancreas	Male	49	10	4	21	2	6	0	0	1	1	0
+C3N-01899	CPTAC-3	Pancreas	Female	82	16	8	42	0	0	0	0	1	1	0
+TCGA-EI-6507	TCGA-READ	Rectum	Male	73	8	4	16	11	3	9	17	1	1	3
+11CO020	CPTAC-2	Colon	Male	28	6	4	14	0	0	0	0	1	1	0
+TCGA-BH-A18S	TCGA-BRCA	Breast	Female	89	10	8	16	11	6	11	18	1	1	6
+TCGA-55-7283	TCGA-LUAD	Bronchus and lung	Female	81	10	6	17	12	3	8	21	1	1	3
+C3L-02513	CPTAC-3	Bronchus and lung	Male	55	13	8	16	2	6	0	0	1	1	0
+HCM-BROD-0009-C25	HCMI-CMDC	Pancreas	Female	46	7	2	28	0	3	1	1	1	1	0
+C3L-03678	CPTAC-3	Bronchus and lung	Male	39	8	4	16	2	3	0	0	1	1	0
+MMRF_2258	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+MMRF_2093	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+MMRF_2183	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+MP2PRT-PASUMX	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Male	36	7	2	16	2	0	3	0	1	1	0
+TCGA-AA-3930	TCGA-COAD	Colon	Male	62	6	4	13	9	3	9	17	1	1	3
+MMRF_2378	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	2	1	0
+09CO011	CPTAC-2	Colon	Female	28	6	4	14	0	0	0	0	1	1	0
+C3L-01637	CPTAC-3	Pancreas	Female	77	16	8	35	2	6	0	0	1	1	0
+11CO052	CPTAC-2	Colon	Female	28	6	4	14	0	0	0	0	1	1	0
+TCGA-EQ-A4SO	TCGA-STAD	Stomach	Male	78	9	4	17	14	3	9	17	1	1	3
+TCGA-EM-A4FV	TCGA-THCA	Thyroid gland	Female	71	8	4	16	11	3	11	14	2	1	2
+TCGA-AB-2864	TCGA-LAML	Hematopoietic and reticuloendothelial systems	Female	53	4	0	30	11	0	2	6	1	1	0
+MMRF_2613	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	52	12	4	28	0	0	0	0	1	1	0
+MMRF_1090	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	18	4	0	14	0	0	0	0	1	1	0
+2047	BEATAML1.0-COHORT	Hematopoietic and reticuloendothelial systems	Male	25	5	2	14	0	0	0	0	1	1	0
+TCGA-AY-6386	TCGA-COAD	Colon	Female	72	8	4	16	11	3	9	16	1	1	2
+TCGA-AD-6964	TCGA-COAD	Colon	Male	72	8	4	16	11	3	10	16	1	1	2
+C3L-02345	CPTAC-3	Bronchus and lung	Female	56	14	8	16	2	6	0	0	1	1	0
+TARGET-10-PATLNZ	TARGET-ALL-P2	Hematopoietic and reticuloendothelial systems	Male	32	5	2	14	4	0	4	1	1	1	0
+TCGA-NH-A5IV	TCGA-COAD	Colon	Female	79	9	4	18	13	3	9	16	1	1	2
+MMRF_1506	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	2	1	0
+MMRF_2035	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-BS-A0V4	TCGA-UCEC	Corpus uteri	Female	75	8	4	16	11	3	11	17	1	1	3
+C3N-01875	CPTAC-3	Uterus, NOS	Female	60	15	10	16	2	3	0	0	1	1	0
+TCGA-XF-A9SU	TCGA-BLCA	Bladder	Female	72	10	4	16	11	3	10	14	1	1	2
+TARGET-10-PARGBR	TARGET-ALL-P2	Hematopoietic and reticuloendothelial systems	Male	20	2	0	14	0	0	3	1	1	1	0
+MMRF_1082	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+MMRF_1257	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	26	6	2	14	0	0	0	0	1	1	0
+MP2PRT-PASSIK	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Male	36	7	2	16	2	0	3	0	1	1	0
+MMRF_1815	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+CDDP-ABLQ	CDDP_EAGLE-1	Bronchus and lung	Female	36	7	2	16	2	0	2	1	2	1	0
+MP2PRT-PAVXRW	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Female	36	7	2	16	2	0	3	0	1	1	0
+MMRF_1089	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-A6-2674	TCGA-COAD	Colon	Male	133	17	8	46	19	6	9	20	1	1	6
+MP2PRT-PAVJXI	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Female	36	7	2	16	2	0	3	0	1	1	0
+TCGA-VS-A9V1	TCGA-CESC	Cervix uteri	Female	72	8	4	16	11	3	10	16	1	1	2
+MP2PRT-PASKHD	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Male	36	7	2	16	2	0	3	0	1	1	0
+TCGA-VQ-A8PP	TCGA-STAD	Stomach	Male	73	10	4	16	11	3	8	16	1	1	2
+C3N-00709	CPTAC-3	Pancreas	Male	39	8	4	16	2	3	0	0	1	1	0
+TCGA-AY-A54L	TCGA-COAD	Colon	Female	71	9	4	16	9	3	9	16	1	1	2
+TCGA-D1-A0ZS	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	17	1	1	3
+TCGA-AH-6903	TCGA-READ	Rectosigmoid junction	Male	71	8	4	16	11	3	9	16	1	1	2
+MMRF_2195	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	2	1	0
+TCGA-YY-A8LH	TCGA-PAAD	Pancreas	Female	78	8	4	18	13	3	9	16	1	1	2
+TCGA-AG-A00C	TCGA-READ	Rectum	Female	79	7	4	30	7	3	9	18	1	1	4
+C3L-02650	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+MMRF_2505	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-NJ-A55O	TCGA-LUAD	Bronchus and lung	Female	72	6	4	16	10	3	8	20	1	1	2
+C3N-01166	CPTAC-3	Pancreas	Female	54	9	4	30	2	3	0	0	1	1	0
+TCGA-AG-3887	TCGA-READ	Rectum	Male	68	8	4	16	11	3	9	17	1	1	3
+TCGA-CM-6168	TCGA-COAD	Colon	Female	72	7	4	16	11	3	9	17	1	1	3
+MMRF_1261	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-E6-A1LX	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+TCGA-BS-A0TG	TCGA-UCEC	Corpus uteri	Female	71	10	4	16	9	3	11	17	1	1	3
+C3N-00514	CPTAC-3	Pancreas	Male	66	12	4	32	4	6	0	0	1	1	0
+TCGA-HV-A5A6	TCGA-PAAD	Pancreas	Female	78	8	4	18	13	3	9	16	1	1	2
+MP2PRT-PAPZRA	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Male	36	7	2	16	2	0	3	0	1	1	0
+C3L-02661	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+TCGA-BG-A0MK	TCGA-UCEC	Corpus uteri	Female	72	7	4	16	11	3	11	15	1	1	1
+MMRF_1650	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	43	9	2	28	0	0	0	0	1	1	0
+TCGA-AP-A1E4	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+TCGA-D1-A17H	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+TCGA-IB-7645	TCGA-PAAD	Pancreas	Female	71	8	4	16	11	3	9	16	1	1	2
+TCGA-73-4670	TCGA-LUAD	Bronchus and lung	Female	80	9	2	16	11	6	8	23	1	1	5
+TCGA-IB-A6UG	TCGA-PAAD	Pancreas	Male	79	10	4	18	13	3	9	16	1	1	2
+C3N-03173	CPTAC-3	Pancreas	Male	55	13	8	16	2	6	0	0	1	1	0
+TCGA-G4-6323	TCGA-COAD	Colon	Male	73	8	4	16	11	3	9	17	1	1	3
+TCGA-BF-AAP4	TCGA-SKCM	Skin	Male	69	8	4	16	11	3	8	14	2	1	2
+MP2PRT-PAVWUM	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Female	36	7	2	16	2	0	3	0	1	1	0
+TCGA-AG-3591	TCGA-READ	Rectosigmoid junction	Female	73	8	4	16	11	3	9	17	1	1	3
+21CO007	CPTAC-2	Colon	Male	28	6	4	14	0	0	0	0	1	1	0
+TCGA-CM-5863	TCGA-COAD	Colon	Female	71	8	4	16	10	3	9	16	1	1	2
+MP2PRT-PAUCHB	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Male	36	7	2	16	2	0	3	0	1	1	0
+C3N-03063	CPTAC-3	Bronchus and lung	Male	55	13	8	16	2	6	0	0	1	1	0
+05CO054	CPTAC-2	Colon	Male	28	6	4	14	0	0	0	0	1	1	0
+MP2PRT-PAUJZZ	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Male	36	7	2	16	2	0	3	0	1	1	0
+TCGA-AA-3680	TCGA-COAD	Colon	Female	64	4	4	16	11	3	9	17	1	1	3
+MP2PRT-PARYAJ	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Male	36	7	2	16	2	0	3	0	1	1	0
+C3N-01520	CPTAC-3	Uterus, NOS	Female	45	10	4	16	2	3	0	0	1	1	0
+MMRF_1644	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-AF-6672	TCGA-READ	Rectosigmoid junction	Male	73	8	4	16	11	3	9	17	1	1	3
+TCGA-NH-A50V	TCGA-COAD	Colon	Male	81	11	4	18	13	3	9	16	1	1	2
+MBCProject_0763	CMI-MBC	Breast	Female	16	2	0	14	0	0	0	0	1	1	0
+C3L-00449	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+TCGA-NJ-A4YP	TCGA-LUAD	Bronchus and lung	Male	74	8	4	16	11	3	8	20	1	1	2
+TARGET-10-PANWGG	TARGET-ALL-P2	Hematopoietic and reticuloendothelial systems	Female	20	2	0	14	0	0	3	1	1	1	0
+TCGA-HF-A5NB	TCGA-STAD	Stomach	Female	78	9	4	18	13	3	8	16	1	1	2

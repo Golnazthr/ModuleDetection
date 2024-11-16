@@ -1,0 +1,29 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-FS-A4F0	TCGA-SKCM	Skin	Female	63	6	4	16	9	3	8	13	2	1	1
+TCGA-04-1361	TCGA-OV	Ovary	Female	84	8	4	30	11	3	9	14	1	1	2
+MMRF_1607	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	18	4	0	14	0	0	0	0	1	1	0
+TCGA-A5-A0G2	TCGA-UCEC	Corpus uteri	Female	69	8	4	16	9	3	11	17	6	1	3
+TCGA-EY-A1GS	TCGA-UCEC	Corpus uteri	Female	70	8	4	16	11	3	11	16	1	1	2
+TCGA-50-7109	TCGA-LUAD	Bronchus and lung	Male	80	9	6	16	11	3	8	22	1	1	4
+TCGA-AZ-5403	TCGA-COAD	Colon	Male	72	8	4	16	11	3	9	17	1	1	3
+TCGA-CM-4746	TCGA-COAD	Colon	Male	69	8	4	16	11	3	9	17	1	1	3
+TCGA-CA-5256	TCGA-COAD	Colon	Female	69	8	4	16	11	3	9	17	1	1	3
+TCGA-FD-A3N6	TCGA-BLCA	Bladder	Female	75	12	4	16	11	3	10	14	1	1	2
+TCGA-DD-AACL	TCGA-LIHC	Liver and intrahepatic bile ducts	Female	77	9	4	18	13	3	10	14	1	1	2
+TCGA-EB-A4IS	TCGA-SKCM	Skin	Male	75	8	4	18	13	3	8	14	1	1	2
+HCM-SANG-0294-C15	HCMI-CMDC	Esophagus	Male	96	18	6	36	8	6	1	1	1	1	0
+TCGA-85-8666	TCGA-LUSC	Bronchus and lung	Male	66	8	4	16	7	3	8	15	1	1	3
+C3L-02449	CPTAC-3	Uterus, NOS	Female	43	12	6	14	0	3	0	0	1	1	0
+TCGA-AA-3672	TCGA-COAD	Colon	Female	66	4	4	16	11	3	10	17	1	1	3
+C3L-00369	CPTAC-3	Kidney	Male	130	26	16	48	6	12	0	0	1	1	0
+TCGA-EB-A431	TCGA-SKCM	Skin	Male	69	8	4	16	11	3	8	14	1	1	2
+TCGA-B5-A11O	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	17	1	1	3
+TCGA-GR-7351	TCGA-DLBC	Thyroid gland	Female	63	6	2	16	11	3	8	13	1	1	1
+TCGA-CN-4727	TCGA-HNSC	Larynx	Male	77	10	4	16	11	3	11	17	1	1	3
+TCGA-DK-A1A3	TCGA-BLCA	Bladder	Male	73	10	4	16	11	3	10	14	1	1	2
+TCGA-CN-A6V1	TCGA-HNSC	Tonsil	Male	73	8	4	16	11	3	11	15	1	1	1
+TCGA-GL-6846	TCGA-KIRP	Kidney	Male	90	13	8	17	14	6	8	15	1	1	3
+TCGA-D1-A16X	TCGA-UCEC	Corpus uteri	Female	70	8	4	16	11	3	11	16	1	1	2
+TCGA-UY-A9PA	TCGA-BLCA	Bladder	Male	72	10	4	16	11	3	10	14	1	1	2
+MP2PRT-PARNTW	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Female	36	7	2	16	2	0	3	0	2	1	0
+TCGA-AZ-6601	TCGA-COAD	Colon	Male	87	11	6	16	11	6	10	18	1	1	4

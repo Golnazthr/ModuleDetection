@@ -1,0 +1,101 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+C3L-02654	CPTAC-3	Bronchus and lung	Female	55	13	8	16	2	6	0	0	1	1	0
+TCGA-FS-A1ZF	TCGA-SKCM	Skin	Female	68	8	4	16	11	3	9	13	1	1	1
+TCGA-BJ-A45I	TCGA-THCA	Thyroid gland	Female	77	9	4	17	14	3	11	15	1	1	3
+TCGA-FS-A1YY	TCGA-SKCM	Skin	Female	67	8	4	16	11	3	8	13	1	1	1
+TCGA-BJ-A290	TCGA-THCA	Thyroid gland	Male	99	14	8	19	14	6	12	15	1	1	3
+TCGA-EB-A3Y6	TCGA-SKCM	Skin	Female	71	9	4	18	9	3	8	14	1	1	2
+TCGA-BJ-A3EZ	TCGA-THCA	Thyroid gland	Male	72	8	4	16	11	3	11	14	1	1	2
+ASCProject_0059	CMI-ASC	Breast	Female	26	5	2	14	0	0	1	0	1	1	0
+TCGA-86-7714	TCGA-LUAD	Bronchus and lung	Female	73	6	4	16	11	3	8	21	1	1	3
+TCGA-G8-6914	TCGA-DLBC	Lymph nodes	Male	67	5	4	16	11	3	8	15	1	1	3
+TCGA-CM-6171	TCGA-COAD	Colon	Female	73	8	4	16	11	3	9	17	1	1	3
+MMRF_1180	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-FR-A7UA	TCGA-SKCM	Skin	Female	66	6	4	16	11	3	8	14	2	1	2
+TARGET-40-NAASJI	TARGET-OS	Bones, joints and articular cartilage of other and unspecified sites	Male	19	2	0	14	0	0	2	1	1	1	0
+TCGA-ET-A25O	TCGA-THCA	Thyroid gland	Female	72	8	4	16	11	3	11	14	1	1	2
+MMRF_2691	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-EM-A3SU	TCGA-THCA	Thyroid gland	Female	112	13	8	31	17	6	12	16	1	1	4
+MMRF_2236	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-06-5416	TCGA-GBM	Brain	Female	66	7	2	16	9	3	9	15	1	1	3
+C3N-00294	CPTAC-3	Bronchus and lung	Male	45	9	4	21	2	3	0	0	1	1	0
+TCGA-53-A4EZ	TCGA-LUAD	Bronchus and lung	Male	74	7	4	16	11	3	8	20	1	1	2
+TCGA-EA-A1QT	TCGA-CESC	Cervix uteri	Female	71	8	4	16	9	3	10	16	1	1	2
+TCGA-L4-A4E6	TCGA-LUAD	Bronchus and lung	Male	75	9	4	16	10	3	8	20	1	1	2
+TCGA-AA-3877	TCGA-COAD	Colon	Female	65	5	4	16	11	3	9	17	1	1	3
+TCGA-5L-AAT1	TCGA-BRCA	Breast	Female	72	8	4	16	10	3	12	14	1	1	2
+MMRF_1153	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	43	9	2	28	0	0	0	0	1	1	0
+TCGA-2J-AABK	TCGA-PAAD	Pancreas	Male	75	8	4	18	10	3	9	16	1	1	2
+C3N-04176	CPTAC-3	Bronchus and lung	Female	51	12	8	16	2	3	0	0	1	1	0
+MMRF_2678	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+MMRF_1112	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-2W-A8YY	TCGA-CESC	Cervix uteri	Female	73	8	4	16	11	3	10	16	1	1	2
+TCGA-DJ-A1QF	TCGA-THCA	Thyroid gland	Female	74	10	4	16	11	3	11	14	1	1	2
+TCGA-AM-5821	TCGA-COAD	Colon	Female	73	8	4	16	11	3	9	17	1	1	3
+TCGA-D3-A1Q4	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+HCM-CSHL-0246-C19	HCMI-CMDC	Rectum	Male	97	17	6	46	4	6	1	1	1	1	0
+TCGA-FS-A1ZM	TCGA-SKCM	Skin	Male	71	8	4	16	11	3	8	16	1	1	4
+TCGA-AP-A051	TCGA-UCEC	Corpus uteri	Female	78	9	4	18	13	3	11	17	3	1	3
+TCGA-EE-A2A6	TCGA-SKCM	Skin	Male	69	8	4	16	11	3	8	14	1	1	2
+TCGA-HR-A5NC	TCGA-SKCM	Skin	Female	69	8	4	16	11	3	8	14	1	1	2
+TCGA-EM-A4FO	TCGA-THCA	Thyroid gland	Male	71	8	4	16	11	3	11	14	1	1	2
+TCGA-3N-A9WC	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+TCGA-ET-A25J	TCGA-THCA	Thyroid gland	Female	75	9	4	16	11	6	11	14	1	1	2
+C3L-02648	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+TCGA-AL-3467	TCGA-KIRP	Kidney	Female	79	10	4	17	16	3	8	17	1	1	5
+TCGA-EL-A3CR	TCGA-THCA	Thyroid gland	Female	73	8	4	16	11	3	12	14	1	1	2
+TCGA-D3-A5GN	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+TCGA-EE-A29W	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+TCGA-VQ-A8P2	TCGA-STAD	Stomach	Male	71	10	4	16	9	3	8	16	1	1	2
+TCGA-EM-A22P	TCGA-THCA	Thyroid gland	Male	71	8	4	16	11	3	11	14	1	1	2
+TCGA-OR-A5JB	TCGA-ACC	Adrenal gland	Male	79	8	4	18	13	3	9	18	1	1	6
+TCGA-W3-AA21	TCGA-SKCM	Skin	Male	66	6	4	16	11	3	8	14	2	1	2
+TCGA-DA-A1I0	TCGA-SKCM	Skin	Male	69	8	4	16	11	3	8	14	2	1	2
+TCGA-ET-A3BX	TCGA-THCA	Thyroid gland	Male	72	8	4	16	11	3	11	14	1	1	2
+TCGA-DJ-A3V2	TCGA-THCA	Thyroid gland	Female	72	8	4	16	11	3	11	14	1	1	2
+MMRF_1568	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	18	4	0	14	0	0	0	0	1	1	0
+04OV031	CPTAC-2	Ovary	Female	28	6	4	14	0	0	0	0	1	1	0
+TCGA-44-2666	TCGA-LUAD	Bronchus and lung	Male	202	26	8	89	24	9	8	26	1	1	8
+TCGA-EM-A1CV	TCGA-THCA	Thyroid gland	Female	94	16	8	17	12	6	11	15	1	1	3
+TCGA-78-7633	TCGA-LUAD	Bronchus and lung	Male	77	8	4	16	11	3	9	21	2	1	3
+TCGA-G4-6302	TCGA-COAD	Colon	Female	82	9	4	17	14	6	9	18	1	1	4
+TCGA-FE-A233	TCGA-THCA	Thyroid gland	Female	76	12	4	16	11	3	11	14	1	1	2
+MMRF_1921	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-EB-A299	TCGA-SKCM	Skin	Male	71	10	4	16	11	3	8	14	1	1	2
+MMRF_1801	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	27	7	2	14	0	0	0	0	1	1	0
+TCGA-W3-AA1Q	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	2	1	2
+TCGA-E8-A434	TCGA-THCA	Thyroid gland	Female	71	8	4	16	11	3	11	14	1	1	2
+TCGA-ER-A19G	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+TCGA-69-7765	TCGA-LUAD	Bronchus and lung	Male	75	7	4	16	11	3	8	21	1	1	3
+MP2PRT-PASRGZ	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Female	36	7	2	16	2	0	3	0	1	1	0
+TCGA-DJ-A2Q5	TCGA-THCA	Thyroid gland	Male	72	8	4	16	11	3	11	14	1	1	2
+TCGA-D3-A3C6	TCGA-SKCM	Skin	Female	66	6	4	16	11	3	8	14	1	1	2
+TCGA-05-4410	TCGA-LUAD	Bronchus and lung	Male	78	9	4	16	11	3	9	21	1	1	3
+TCGA-EL-A3N2	TCGA-THCA	Thyroid gland	Female	88	12	8	16	11	6	11	15	1	1	3
+TCGA-GE-A2C6	TCGA-THCA	Thyroid gland	Female	93	15	8	17	12	6	11	15	1	1	3
+TCGA-DJ-A1QD	TCGA-THCA	Thyroid gland	Female	74	10	4	16	11	3	11	14	1	1	2
+TCGA-E8-A418	TCGA-THCA	Thyroid gland	Female	74	10	4	16	11	3	11	14	1	1	2
+TCGA-BR-4201	TCGA-STAD	Stomach	Female	79	10	4	16	11	6	8	19	1	1	5
+TCGA-D3-A8GN	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+TCGA-ER-A42K	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+C3L-02549	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+TCGA-E8-A414	TCGA-THCA	Thyroid gland	Female	72	8	4	16	11	3	11	14	1	1	2
+ER-B0CR	EXCEPTIONAL_RESPONDERS-ER	Colon	Male	53	10	4	28	0	0	2	1	1	1	0
+TCGA-EE-A29A	TCGA-SKCM	Skin	Male	66	6	4	16	11	3	8	14	1	1	2
+TCGA-DJ-A3UO	TCGA-THCA	Thyroid gland	Male	72	8	4	16	11	3	11	14	1	1	2
+TCGA-DJ-A1QO	TCGA-THCA	Thyroid gland	Male	74	10	4	16	11	3	11	14	1	1	2
+TCGA-RX-A8JQ	TCGA-PCPG	Retroperitoneum and peritoneum	Male	70	8	4	16	11	3	9	14	1	1	2
+TCGA-GF-A2C7	TCGA-SKCM	Skin	Male	77	10	4	18	13	3	8	14	1	1	2
+TCGA-D3-A3C7	TCGA-SKCM	Skin	Female	66	6	4	16	11	3	8	14	1	1	2
+TCGA-CK-6747	TCGA-COAD	Colon	Female	73	8	4	16	11	3	9	17	1	1	3
+TCGA-CK-4951	TCGA-COAD	Colon	Female	68	8	4	16	11	3	9	17	2	1	3
+C3L-03462	CPTAC-3	Bronchus and lung	Male	55	13	8	16	2	6	0	0	2	1	0
+TCGA-AU-6004	TCGA-COAD	Colon	Female	72	8	4	16	11	3	9	16	1	1	2
+TCGA-D3-A2JG	TCGA-SKCM	Skin	Female	66	6	4	16	11	3	8	14	1	1	2
+TCGA-EL-A3MZ	TCGA-THCA	Thyroid gland	Male	73	8	4	16	11	3	11	15	1	1	3
+TCGA-EE-A181	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+TCGA-DJ-A1QH	TCGA-THCA	Thyroid gland	Female	73	10	4	16	11	3	11	14	1	1	2
+TCGA-B5-A3FA	TCGA-UCEC	Corpus uteri	Female	72	6	4	16	11	3	11	16	1	1	2
+TCGA-CM-5861	TCGA-COAD	Colon	Female	72	7	4	16	11	3	9	17	1	1	3
+TCGA-DJ-A13L	TCGA-THCA	Thyroid gland	Male	77	12	4	16	11	3	12	15	1	1	3
+TCGA-ER-A19H	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2

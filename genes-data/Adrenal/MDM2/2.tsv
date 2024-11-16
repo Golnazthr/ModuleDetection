@@ -1,0 +1,12 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-FG-8185	TCGA-LGG	Brain	Male	70	8	4	16	11	3	8	15	1	1	3
+TCGA-LN-A7HY	TCGA-ESCA	Esophagus	Male	72	8	4	16	11	3	9	16	1	1	2
+CDDP-ABK4	CDDP_EAGLE-1	Bronchus and lung	Male	36	7	2	16	2	0	2	1	1	1	0
+MMRF_2772	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-A5-A0G2	TCGA-UCEC	Corpus uteri	Female	69	8	4	16	9	3	11	17	4	1	3
+TCGA-OR-A5JG	TCGA-ACC	Adrenal gland	Male	71	6	4	16	11	3	9	18	1	1	6
+TCGA-OR-A5K4	TCGA-ACC	Adrenal gland	Female	72	6	4	16	11	3	9	18	1	1	6
+C3N-02300	CPTAC-3	Bronchus and lung	Female	51	12	8	16	2	3	0	0	1	1	0
+TCGA-RD-A8NB	TCGA-STAD	Stomach	Female	68	8	4	16	8	3	8	16	2	1	2
+05CO032	CPTAC-2	Colon	Male	28	6	4	14	0	0	0	0	1	1	0
+TCGA-DX-A48U	TCGA-SARC	Retroperitoneum and peritoneum	Male	70	8	4	16	11	3	9	14	1	1	2

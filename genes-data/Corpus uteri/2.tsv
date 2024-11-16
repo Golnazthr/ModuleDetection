@@ -1,0 +1,101 @@
+Symbol	Name	# SSM Affected Cases Across the GDC	# Mutations
+NOTCH2	notch receptor 2	430 / 16,405	112
+NRG1	neuregulin 1	448 / 16,405	102
+CTNND2	catenin delta 2	677 / 16,405	99
+NUMA1	nuclear mitotic apparatus protein 1	358 / 16,405	96
+KDM5C	lysine demethylase 5C	385 / 16,405	96
+MET	MET proto-oncogene, receptor tyrosine kinase	349 / 16,405	85
+KDM5A	lysine demethylase 5A	358 / 16,405	94
+NSD3	nuclear receptor binding SET domain protein 3	296 / 16,405	82
+ARID1B	AT-rich interaction domain 1B	477 / 16,405	82
+CTNND1	catenin delta 1	272 / 16,405	83
+ALK	ALK receptor tyrosine kinase	491 / 16,405	87
+ASXL1	ASXL transcriptional regulator 1	403 / 16,405	75
+ARHGEF12	Rho guanine nucleotide exchange factor 12	305 / 16,405	97
+BCL11A	BAF chromatin remodeling complex subunit BCL11A	383 / 16,405	72
+STAG2	stromal antigen 2	396 / 16,405	104
+N4BP2	NEDD4 binding protein 2	304 / 16,405	78
+PTPRK	protein tyrosine phosphatase receptor type K	419 / 16,405	94
+MYO5A	myosin VA	364 / 16,405	104
+ERBB3	erb-b2 receptor tyrosine kinase 3	380 / 16,405	71
+ERBB4	erb-b2 receptor tyrosine kinase 4	672 / 16,405	86
+KIAA1549	KIAA1549	468 / 16,405	85
+AMER1	APC membrane recruitment protein 1	430 / 16,405	82
+USP6	ubiquitin specific peptidase 6	345 / 16,405	87
+FLT4	fms related receptor tyrosine kinase 4	470 / 16,405	77
+SETDB1	SET domain bifurcated histone lysine methyltransferase 1	296 / 16,405	76
+EPHA3	EPH receptor A3	523 / 16,405	94
+COL3A1	collagen type III alpha 1 chain	583 / 16,405	87
+SPOP	speckle type BTB/POZ protein	207 / 16,405	40
+TP63	tumor protein p63	401 / 16,405	68
+WNK2	WNK lysine deficient protein kinase 2	461 / 16,405	75
+RET	ret proto-oncogene	365 / 16,405	66
+DROSHA	drosha ribonuclease III	280 / 16,405	70
+BCL9	BCL9 transcription coactivator	338 / 16,405	68
+CNTRL	centriolin	351 / 16,405	87
+CLTCL1	clathrin heavy chain like 1	315 / 16,405	76
+TRIP11	thyroid hormone receptor interactor 11	315 / 16,405	98
+ARHGEF10	Rho guanine nucleotide exchange factor 10	316 / 16,405	84
+BRIP1	BRCA1 interacting protein C-terminal helicase 1	274 / 16,405	70
+SF3B1	splicing factor 3b subunit 1	366 / 16,405	60
+BRD3	bromodomain containing 3	188 / 16,405	45
+ZEB1	zinc finger E-box binding homeobox 1	390 / 16,405	69
+AFF3	AF4/FMR2 family member 3	440 / 16,405	76
+TFE3	transcription factor binding to IGHM enhancer 3	203 / 16,405	50
+AR	androgen receptor	339 / 16,405	69
+FLT3	fms related receptor tyrosine kinase 3	440 / 16,405	77
+BCL9L	BCL9 like	347 / 16,405	72
+MAML2	mastermind like transcriptional coactivator 2	256 / 16,405	64
+KNL1	kinetochore scaffold 1	332 / 16,405	93
+WRN	WRN RecQ like helicase	263 / 16,405	60
+GRM3	glutamate metabotropic receptor 3	528 / 16,405	78
+PCM1	pericentriolar material 1	230 / 16,405	95
+RBM10	RNA binding motif protein 10	315 / 16,405	68
+CLTC	clathrin heavy chain	301 / 16,405	80
+RUNX1T1	RUNX1 partner transcriptional co-repressor 1	513 / 16,405	67
+SND1	staphylococcal nuclease and tudor domain containing 1	283 / 16,405	80
+ASXL2	ASXL transcriptional regulator 2	343 / 16,405	67
+ARHGAP5	Rho GTPase activating protein 5	360 / 16,405	87
+ZNF521	zinc finger protein 521	536 / 16,405	88
+PDGFRA	platelet derived growth factor receptor alpha	440 / 16,405	89
+NCOA1	nuclear receptor coactivator 1	286 / 16,405	70
+STIL	STIL centriolar assembly protein	247 / 16,405	69
+KIT	KIT proto-oncogene, receptor tyrosine kinase	336 / 16,405	73
+KDM6A	lysine demethylase 6A	472 / 16,405	63
+MAP3K13	mitogen-activated protein kinase kinase kinase 13	250 / 16,405	72
+EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit	222 / 16,405	60
+GLI1	GLI family zinc finger 1	328 / 16,405	56
+ZNF479	zinc finger protein 479	386 / 16,405	69
+FOXP1	forkhead box P1	280 / 16,405	58
+DCAF12L2	DDB1 and CUL4 associated factor 12 like 2	390 / 16,405	62
+BRCA1	BRCA1 DNA repair associated	366 / 16,405	70
+FANCD2	FA complementation group D2	272 / 16,405	72
+ABL2	ABL proto-oncogene 2, non-receptor tyrosine kinase	299 / 16,405	68
+PTPRC	protein tyrosine phosphatase receptor type C	485 / 16,405	83
+PRDM2	PR/SET domain 2	333 / 16,405	84
+NUP98	nucleoporin 98 and 96 precursor	327 / 16,405	72
+PBRM1	polybromo 1	579 / 16,405	67
+TSC1	TSC complex subunit 1	273 / 16,405	59
+KDR	kinase insert domain receptor	501 / 16,405	91
+BAZ1A	bromodomain adjacent to zinc finger domain 1A	270 / 16,405	67
+HSP90AB1	heat shock protein 90 alpha family class B member 1	201 / 16,405	57
+NACA	nascent polypeptide associated complex subunit alpha	341 / 16,405	71
+NTRK3	neurotrophic receptor tyrosine kinase 3	504 / 16,405	78
+PREX2	phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2	698 / 16,405	73
+POLD1	DNA polymerase delta 1, catalytic subunit	251 / 16,405	67
+PER1	period circadian regulator 1	242 / 16,405	66
+LARP4B	La ribonucleoprotein 4B	268 / 16,405	47
+NCOA2	nuclear receptor coactivator 2	304 / 16,405	80
+LATS1	large tumor suppressor kinase 1	285 / 16,405	61
+LZTR1	leucine zipper like transcription regulator 1	275 / 16,405	53
+PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta	241 / 16,405	62
+NFATC2	nuclear factor of activated T cells 2	326 / 16,405	72
+CTNNA2	catenin alpha 2	665 / 16,405	72
+MYH9	myosin heavy chain 9	483 / 16,405	95
+DDX3X	DEAD-box helicase 3 X-linked	305 / 16,405	52
+BRD4	bromodomain containing 4	264 / 16,405	75
+KTN1	kinectin 1	212 / 16,405	64
+TSC2	TSC complex subunit 2	387 / 16,405	71
+ERCC4	ERCC excision repair 4, endonuclease catalytic subunit	197 / 16,405	54
+DCTN1	dynactin subunit 1	275 / 16,405	67
+CUL3	cullin 3	250 / 16,405	60

@@ -1,0 +1,101 @@
+Symbol	Name	# SSM Affected Cases Across the GDC	# Mutations
+A1CF	APOBEC1 complementation factor	259 / 16,405	11
+MACC1	MET transcriptional regulator MACC1	234 / 16,405	10
+CDH17	cadherin 17	264 / 16,405	12
+TPR	translocated promoter region, nuclear basket protein	463 / 16,405	16
+BMP5	bone morphogenetic protein 5	261 / 16,405	13
+LRIG3	leucine rich repeats and immunoglobulin like domains 3	246 / 16,405	13
+RANBP2	RAN binding protein 2	533 / 16,405	11
+ZNF521	zinc finger protein 521	536 / 16,405	13
+SETBP1	SET binding protein 1	532 / 16,405	11
+PTPN13	protein tyrosine phosphatase non-receptor type 13	444 / 16,405	13
+ZMYM2	zinc finger MYM-type containing 2	287 / 16,405	13
+NUTM1	NUT midline carcinoma family member 1	309 / 16,405	13
+COL3A1	collagen type III alpha 1 chain	583 / 16,405	9
+AFDN	afadin, adherens junction formation factor	416 / 16,405	12
+SF3B1	splicing factor 3b subunit 1	366 / 16,405	11
+GLI1	GLI family zinc finger 1	328 / 16,405	11
+BCORL1	BCL6 corepressor like 1	516 / 16,405	13
+IRF4	interferon regulatory factor 4	207 / 16,405	9
+NUMA1	nuclear mitotic apparatus protein 1	358 / 16,405	13
+ATP2B3	ATPase plasma membrane Ca2+ transporting 3	427 / 16,405	12
+LATS2	large tumor suppressor kinase 2	258 / 16,405	11
+MET	MET proto-oncogene, receptor tyrosine kinase	349 / 16,405	17
+ATM	ATM serine/threonine kinase	757 / 16,405	18
+CLIP1	CAP-Gly domain containing linker protein 1	266 / 16,405	14
+CAMTA1	calmodulin binding transcription activator 1	481 / 16,405	16
+FAM135B	family with sequence similarity 135 member B	947 / 16,405	11
+TSC1	TSC complex subunit 1	273 / 16,405	9
+DDR2	discoidin domain receptor tyrosine kinase 2	267 / 16,405	10
+RPL5	ribosomal protein L5	158 / 16,405	8
+DICER1	dicer 1, ribonuclease III	385 / 16,405	15
+CTNND2	catenin delta 2	677 / 16,405	9
+ERBB4	erb-b2 receptor tyrosine kinase 4	672 / 16,405	9
+CDKN2C	cyclin dependent kinase inhibitor 2C	56 / 16,405	8
+PTCH1	patched 1	386 / 16,405	10
+P2RY8	P2Y receptor family member 8	227 / 16,405	9
+EPHA7	EPH receptor A7	419 / 16,405	10
+BIRC6	baculoviral IAP repeat containing 6	756 / 16,405	21
+CHD4	chromodomain helicase DNA binding protein 4	552 / 16,405	10
+PAX3	paired box 3	232 / 16,405	9
+CDKN2A	cyclin dependent kinase inhibitor 2A	576 / 16,405	8
+N4BP2	NEDD4 binding protein 2	304 / 16,405	9
+GATA3	GATA binding protein 3	386 / 16,405	11
+POLE	DNA polymerase epsilon, catalytic subunit	492 / 16,405	24
+BRCA1	BRCA1 DNA repair associated	366 / 16,405	12
+RUNX1T1	RUNX1 partner transcriptional co-repressor 1	513 / 16,405	9
+COL1A1	collagen type I alpha 1 chain	383 / 16,405	13
+FOXA1	forkhead box A1	207 / 16,405	8
+TET1	tet methylcytosine dioxygenase 1	452 / 16,405	10
+SPEN	spen family transcriptional repressor	628 / 16,405	17
+CIITA	class II major histocompatibility complex transactivator	319 / 16,405	11
+FBXW7	F-box and WD repeat domain containing 7	657 / 16,405	8
+TCF7L2	transcription factor 7 like 2	300 / 16,405	10
+PPM1D	protein phosphatase, Mg2+/Mn2+ dependent 1D	152 / 16,405	10
+QKI	QKI, KH domain containing RNA binding	188 / 16,405	9
+CBLB	Cbl proto-oncogene B	270 / 16,405	9
+KNL1	kinetochore scaffold 1	332 / 16,405	10
+CTNNA2	catenin alpha 2	665 / 16,405	8
+NSD3	nuclear receptor binding SET domain protein 3	296 / 16,405	15
+KIAA1549	KIAA1549	468 / 16,405	15
+STAT5B	signal transducer and activator of transcription 5B	206 / 16,405	5
+SUFU	SUFU negative regulator of hedgehog signaling	126 / 16,405	9
+PDE4DIP	phosphodiesterase 4D interacting protein	434 / 16,405	16
+CUX1	cut like homeobox 1	489 / 16,405	11
+CYLD	CYLD lysine 63 deubiquitinase	241 / 16,405	10
+NRG1	neuregulin 1	448 / 16,405	11
+BCL11B	BAF chromatin remodeling complex subunit BCL11B	350 / 16,405	7
+PMS2	PMS1 homolog 2, mismatch repair system component	222 / 16,405	8
+NIN	ninein	384 / 16,405	9
+NCOR2	nuclear receptor corepressor 2	514 / 16,405	13
+ZNF479	zinc finger protein 479	386 / 16,405	9
+BRD3	bromodomain containing 3	188 / 16,405	7
+APC	APC regulator of WNT signaling pathway	1,079 / 16,405	13
+PML	PML nuclear body scaffold	261 / 16,405	9
+MAX	MYC associated factor X	141 / 16,405	5
+NRAS	NRAS proto-oncogene, GTPase	837 / 16,405	5
+TEC	transient erythroblastopenia of childhood	146 / 16,405	9
+NFIB	nuclear factor I B	163 / 16,405	8
+ELF4	E74 like ETS transcription factor 4	175 / 16,405	8
+ERCC4	ERCC excision repair 4, endonuclease catalytic subunit	197 / 16,405	7
+NCOA2	nuclear receptor coactivator 2	304 / 16,405	7
+LATS1	large tumor suppressor kinase 1	285 / 16,405	9
+BAZ1A	bromodomain adjacent to zinc finger domain 1A	270 / 16,405	8
+KDM5C	lysine demethylase 5C	385 / 16,405	10
+PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta	241 / 16,405	8
+EPAS1	endothelial PAS domain protein 1	212 / 16,405	10
+SGK1	serum/glucocorticoid regulated kinase 1	213 / 16,405	9
+TET2	tet methylcytosine dioxygenase 2	334 / 16,405	9
+PRCC	proline rich mitotic checkpoint control factor	115 / 16,405	2
+EP300	E1A binding protein p300	566 / 16,405	13
+KDM5A	lysine demethylase 5A	358 / 16,405	9
+NACA	nascent polypeptide associated complex subunit alpha	341 / 16,405	8
+H3-3A	H3.3 histone A	48 / 16,405	6
+ESR1	estrogen receptor 1	226 / 16,405	6
+BLM	BLM RecQ like helicase	261 / 16,405	9
+ABL2	ABL proto-oncogene 2, non-receptor tyrosine kinase	299 / 16,405	7
+RNF213	ring finger protein 213	756 / 16,405	13
+NTRK3	neurotrophic receptor tyrosine kinase 3	504 / 16,405	11
+MYH9	myosin heavy chain 9	483 / 16,405	11
+JAK2	Janus kinase 2	291 / 16,405	9
+PDGFRB	platelet derived growth factor receptor beta	264 / 16,405	7

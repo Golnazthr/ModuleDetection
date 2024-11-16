@@ -1,0 +1,101 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-AP-A1DP	TCGA-UCEC	Corpus uteri	Female	66	4	4	16	11	3	11	16	1	1	2
+TCGA-AP-A05P	TCGA-UCEC	Corpus uteri	Female	71	8	4	16	11	3	11	17	1	1	3
+TCGA-CA-6717	TCGA-COAD	Colon	Male	73	9	4	16	10	3	9	17	3	1	3
+TCGA-DF-A2KU	TCGA-UCEC	Corpus uteri	Female	74	8	4	16	11	3	11	16	2	1	2
+MMRF_2290	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-DD-A4NE	TCGA-LIHC	Liver and intrahepatic bile ducts	Female	69	8	4	16	8	3	10	15	1	1	3
+TCGA-ED-A66Y	TCGA-LIHC	Liver and intrahepatic bile ducts	Female	69	8	4	16	9	3	10	14	1	1	2
+TCGA-3B-A9I0	TCGA-SARC	Retroperitoneum and peritoneum	Male	69	8	4	16	11	3	9	14	1	1	2
+TCGA-EB-A551	TCGA-SKCM	Skin	Female	69	8	4	16	11	3	8	14	1	1	2
+TCGA-AA-3811	TCGA-COAD	Colon	Female	81	7	4	30	10	3	9	17	1	1	3
+TCGA-86-8074	TCGA-LUAD	Bronchus and lung	Female	74	6	4	16	11	3	8	21	1	1	3
+TCGA-D1-A16N	TCGA-UCEC	Corpus uteri	Female	70	8	4	16	11	3	11	16	1	1	2
+TCGA-44-7660	TCGA-LUAD	Bronchus and lung	Male	87	12	6	17	14	3	8	22	1	1	4
+MP2PRT-PAUNHW	MP2PRT-ALL	Hematopoietic and reticuloendothelial systems	Female	36	7	2	16	2	0	3	0	1	1	0
+TCGA-55-8208	TCGA-LUAD	Bronchus and lung	Female	76	10	4	16	11	3	8	20	1	1	2
+TCGA-XF-A9T8	TCGA-BLCA	Bladder	Male	74	10	4	16	11	3	11	14	1	1	2
+HCM-BROD-0214-C71	HCMI-CMDC	Brain	Female	29	7	2	14	0	0	1	1	1	1	0
+C3L-01672	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+TCGA-AC-A7VC	TCGA-BRCA	Breast	Female	69	6	4	16	11	3	11	14	1	1	2
+MMRF_1365	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-S3-AA10	TCGA-BRCA	Breast	Female	70	8	4	16	9	3	11	14	1	1	2
+MMRF_1235	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	36	10	4	14	0	0	0	0	1	1	0
+TCGA-EO-A22X	TCGA-UCEC	Corpus uteri	Female	72	6	4	16	11	3	11	16	2	1	2
+TCGA-49-AARE	TCGA-LUAD	Bronchus and lung	Female	74	6	4	16	11	3	8	21	1	1	3
+TCGA-BG-A221	TCGA-UCEC	Corpus uteri	Female	69	6	4	16	11	3	12	16	1	1	2
+TCGA-OR-A5JE	TCGA-ACC	Adrenal gland	Female	79	8	4	18	13	3	9	18	1	1	6
+TCGA-OR-A5JS	TCGA-ACC	Adrenal gland	Female	74	8	4	16	11	3	9	18	1	1	6
+TCGA-B5-A0JY	TCGA-UCEC	Corpus uteri	Female	69	6	4	16	11	3	11	17	2	1	3
+TCGA-EO-A22R	TCGA-UCEC	Corpus uteri	Female	72	6	4	16	11	6	11	17	2	1	3
+TCGA-ZF-AA58	TCGA-BLCA	Bladder	Female	73	10	4	16	11	3	10	14	1	1	2
+TCGA-UY-A78L	TCGA-BLCA	Bladder	Male	73	10	4	16	11	3	10	14	1	1	2
+TCGA-K4-A6FZ	TCGA-BLCA	Bladder	Female	79	11	4	17	14	3	10	15	1	1	3
+TCGA-EY-A210	TCGA-UCEC	Corpus uteri	Female	74	8	4	16	11	3	11	16	1	1	2
+TCGA-X6-A7WA	TCGA-SARC	Connective, subcutaneous and other soft tissues	Female	74	8	4	16	11	3	9	18	1	1	6
+TCGA-AG-A036	TCGA-READ	Rectum	Male	67	4	4	16	8	6	9	19	1	1	5
+TCGA-06-1087	TCGA-GBM	Brain	Male	59	4	0	16	11	3	9	15	1	1	4
+TCGA-BR-A4CR	TCGA-STAD	Stomach	Female	72	9	4	16	11	3	8	16	1	1	2
+C3N-02784	CPTAC-3	Brain	Male	45	9	9	16	2	3	0	0	1	1	0
+C3N-00663	CPTAC-3	Brain	Male	39	8	4	16	2	3	0	0	1	1	0
+TCGA-77-8139	TCGA-LUSC	Bronchus and lung	Male	68	8	4	16	11	3	8	14	1	1	2
+TCGA-D3-A1QB	TCGA-SKCM	Skin	Female	69	8	4	16	11	3	8	14	1	1	2
+TCGA-AC-A23H	TCGA-BRCA	Breast	Female	83	10	8	16	9	6	11	15	1	1	3
+TCGA-AP-A1E0	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	2	1	2
+TCGA-AA-3510	TCGA-COAD	Colon	Male	71	6	4	16	11	6	9	18	1	1	4
+MBCProject_4232	CMI-MBC	Breast	Female	25	5	2	14	0	0	0	0	1	1	0
+TCGA-EE-A29B	TCGA-SKCM	Skin	Male	71	10	4	16	11	3	8	14	1	1	2
+TCGA-DK-A3IM	TCGA-BLCA	Bladder	Male	73	12	4	16	9	3	10	14	1	1	2
+MMRF_2550	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+C3N-00302	CPTAC-3	Pancreas	Male	54	9	4	30	2	3	0	0	1	1	0
+TCGA-06-0140	TCGA-GBM	Brain	Male	53	2	0	16	11	3	9	12	1	1	1
+TCGA-28-1752	TCGA-GBM	Brain	Female	59	4	0	16	11	3	9	15	1	1	3
+TCGA-E2-A159	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+HCM-BROD-0685-C71	HCMI-CMDC	Brain	Male	71	12	4	32	4	6	1	0	1	1	0
+TCGA-BR-A4J2	TCGA-STAD	Stomach	Male	78	9	4	18	13	3	8	16	1	1	2
+TCGA-FG-6688	TCGA-LGG	Brain	Female	72	10	4	16	11	3	8	15	1	1	3
+TCGA-85-7710	TCGA-LUSC	Bronchus and lung	Female	88	13	8	17	14	3	8	16	1	1	4
+ER-AC8A	EXCEPTIONAL_RESPONDERS-ER	Bronchus and lung	Female	29	6	2	14	0	0	1	2	1	1	0
+TCGA-AX-A05Y	TCGA-UCEC	Corpus uteri	Female	87	11	8	17	10	6	11	19	2	1	5
+TCGA-D1-A1O7	TCGA-UCEC	Corpus uteri	Female	67	6	4	16	11	3	11	16	1	1	2
+TCGA-24-1469	TCGA-OV	Ovary	Female	70	8	4	16	11	3	9	14	1	1	2
+C3N-01416	CPTAC-3	Bronchus and lung	Female	56	14	8	16	2	6	0	0	1	1	0
+TCGA-EO-A22U	TCGA-UCEC	Corpus uteri	Female	74	8	4	16	11	3	11	16	2	1	2
+TCGA-EY-A1GD	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+TCGA-CG-5721	TCGA-STAD	Stomach	Male	87	14	8	16	11	3	8	18	1	1	4
+TCGA-3B-A9HY	TCGA-SARC	Connective, subcutaneous and other soft tissues	Male	69	8	4	16	11	3	9	14	1	1	2
+TCGA-AX-A1CE	TCGA-UCEC	Corpus uteri	Female	66	4	4	16	11	3	11	17	1	1	3
+TCGA-E1-A7YM	TCGA-LGG	Brain	Male	69	8	4	16	11	3	8	14	1	1	2
+TCGA-VQ-A8E3	TCGA-STAD	Stomach	Male	71	8	4	16	11	3	8	16	1	1	2
+C3L-01913	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	6	1	0
+TCGA-L5-A4OI	TCGA-ESCA	Esophagus	Male	80	9	6	16	11	6	10	17	1	1	3
+TCGA-DX-A8BM	TCGA-SARC	Connective, subcutaneous and other soft tissues	Male	74	8	4	16	11	3	9	18	1	1	6
+TARGET-40-PARDAX	TARGET-OS	Bones, joints and articular cartilage of limbs	Male	35	5	2	14	4	3	3	1	1	1	0
+TCGA-43-6143	TCGA-LUSC	Bronchus and lung	Male	88	13	8	17	14	3	8	16	1	1	4
+TCGA-66-2727	TCGA-LUSC	Bronchus and lung	Female	73	6	4	16	11	6	8	17	1	1	5
+TCGA-04-1638	TCGA-OV	Ovary	Female	61	3	2	16	11	3	9	16	1	1	4
+TCGA-DD-A113	TCGA-LIHC	Liver and intrahepatic bile ducts	Female	93	13	8	17	14	6	10	17	1	1	5
+11CO070	CPTAC-2	Colon	Male	28	6	4	14	0	0	0	0	2	1	0
+TCGA-CN-6024	TCGA-HNSC	Other and unspecified parts of tongue	Male	75	8	4	16	11	3	11	17	1	1	3
+TCGA-KN-8428	TCGA-KICH	Kidney	Male	86	14	8	16	11	3	9	16	1	1	4
+TCGA-61-1741	TCGA-OV	Ovary	Female	69	6	4	16	11	3	9	15	1	1	3
+TCGA-QK-A6V9	TCGA-HNSC	Tonsil	Male	72	8	4	16	11	3	10	16	1	1	2
+C3L-01149	CPTAC-3	Brain	Male	39	8	4	16	2	3	0	0	1	1	0
+TCGA-G2-A2EL	TCGA-BLCA	Bladder	Male	76	12	4	16	11	3	10	15	1	1	3
+CDDP-ACM9	CDDP_EAGLE-1	Bronchus and lung	Male	36	7	2	16	2	0	2	1	1	1	0
+TARGET-10-PASHDV	TARGET-ALL-P2	Hematopoietic and reticuloendothelial systems	Male	32	5	2	14	4	0	4	1	1	1	0
+C3N-02027	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+TCGA-EK-A3GK	TCGA-CESC	Cervix uteri	Female	70	6	4	16	11	3	10	15	1	1	1
+TCGA-JX-A3Q0	TCGA-CESC	Cervix uteri	Female	75	10	4	16	11	3	10	16	1	1	2
+TCGA-12-0619	TCGA-GBM	Brain	Male	65	7	2	16	11	0	9	16	1	1	5
+TCGA-FD-A3B6	TCGA-BLCA	Bladder	Male	76	12	4	16	11	3	11	14	2	1	2
+TCGA-C5-A7CK	TCGA-CESC	Cervix uteri	Female	73	8	4	16	11	3	10	16	1	1	2
+TCGA-FD-A43P	TCGA-BLCA	Bladder	Male	71	10	4	16	9	3	11	14	1	1	2
+TCGA-GN-A267	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+TCGA-12-1600	TCGA-GBM	Brain	Male	59	4	0	16	11	3	9	16	1	1	4
+TCGA-LI-A67I	TCGA-SARC	Connective, subcutaneous and other soft tissues	Female	78	8	4	16	11	3	9	22	1	1	10
+TCGA-AJ-A5DW	TCGA-UCEC	Corpus uteri	Female	74	8	4	16	11	3	11	16	1	1	2
+TCGA-XF-A9SJ	TCGA-BLCA	Bladder	Male	74	10	4	16	11	3	11	14	1	1	2
+TCGA-06-5416	TCGA-GBM	Brain	Female	66	7	2	16	9	3	9	15	1	1	3
+C3N-00294	CPTAC-3	Bronchus and lung	Male	45	9	4	21	2	3	0	0	1	1	0
+TCGA-AX-A3FZ	TCGA-UCEC	Corpus uteri	Female	71	6	4	16	11	3	11	15	1	1	1

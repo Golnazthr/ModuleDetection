@@ -1,0 +1,101 @@
+Symbol	Name	# SSM Affected Cases Across the GDC	# Mutations
+EPHA7	EPH receptor A7	419 / 16,405	6
+SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	580 / 16,405	6
+PAX3	paired box 3	232 / 16,405	6
+ERCC4	ERCC excision repair 4, endonuclease catalytic subunit	197 / 16,405	6
+ZEB1	zinc finger E-box binding homeobox 1	390 / 16,405	6
+STAG1	stromal antigen 1	297 / 16,405	6
+TFRC	transferrin receptor	143 / 16,405	6
+THRAP3	thyroid hormone receptor associated protein 3	230 / 16,405	6
+TET1	tet methylcytosine dioxygenase 1	452 / 16,405	6
+POLQ	DNA polymerase theta	528 / 16,405	6
+EP300	E1A binding protein p300	566 / 16,405	6
+KDM5A	lysine demethylase 5A	358 / 16,405	6
+BCLAF1	BCL2 associated transcription factor 1	240 / 16,405	7
+PRKCB	protein kinase C beta	344 / 16,405	6
+PREX2	phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2	698 / 16,405	6
+NUP98	nucleoporin 98 and 96 precursor	327 / 16,405	6
+NUP214	nucleoporin 214	360 / 16,405	6
+EML4	EMAP like 4	195 / 16,405	5
+MSH6	mutS homolog 6	318 / 16,405	5
+ASXL1	ASXL transcriptional regulator 1	403 / 16,405	5
+MYC	MYC proto-oncogene, bHLH transcription factor	177 / 16,405	5
+DDR2	discoidin domain receptor tyrosine kinase 2	267 / 16,405	5
+ARHGEF10	Rho guanine nucleotide exchange factor 10	316 / 16,405	5
+DICER1	dicer 1, ribonuclease III	385 / 16,405	5
+ERBB3	erb-b2 receptor tyrosine kinase 3	380 / 16,405	5
+TSC2	TSC complex subunit 2	387 / 16,405	5
+DDX5	DEAD-box helicase 5	162 / 16,405	5
+EGFR	epidermal growth factor receptor	645 / 16,405	5
+USP6	ubiquitin specific peptidase 6	345 / 16,405	5
+GPC5	glypican 5	337 / 16,405	5
+TOP1	DNA topoisomerase I	168 / 16,405	5
+PRDM16	PR/SET domain 16	377 / 16,405	5
+KRAS	KRAS proto-oncogene, GTPase	1,762 / 16,405	3
+NCOA2	nuclear receptor coactivator 2	304 / 16,405	5
+PALB2	partner and localizer of BRCA2	233 / 16,405	5
+GATA3	GATA binding protein 3	386 / 16,405	5
+PTEN	phosphatase and tensin homolog	1,230 / 16,405	5
+DNMT3A	DNA methyltransferase 3 alpha	336 / 16,405	5
+PRDM1	PR/SET domain 1	272 / 16,405	5
+AR	androgen receptor	339 / 16,405	5
+ISX	intestine specific homeobox	109 / 16,405	5
+FBXW7	F-box and WD repeat domain containing 7	657 / 16,405	5
+TNFAIP3	TNF alpha induced protein 3	178 / 16,405	5
+RALGDS	ral guanine nucleotide dissociation stimulator	182 / 16,405	5
+COL2A1	collagen type II alpha 1 chain	404 / 16,405	5
+DROSHA	drosha ribonuclease III	280 / 16,405	5
+ZBTB16	zinc finger and BTB domain containing 16	225 / 16,405	5
+TCF12	transcription factor 12	191 / 16,405	5
+CLIP1	CAP-Gly domain containing linker protein 1	266 / 16,405	5
+KDM6A	lysine demethylase 6A	472 / 16,405	6
+JAK3	Janus kinase 3	280 / 16,405	5
+GNAS	GNAS complex locus	366 / 16,405	4
+CNOT3	CCR4-NOT transcription complex subunit 3	220 / 16,405	6
+WRN	WRN RecQ like helicase	263 / 16,405	5
+PTPRC	protein tyrosine phosphatase receptor type C	485 / 16,405	5
+MYH9	myosin heavy chain 9	483 / 16,405	5
+KIAA1549	KIAA1549	468 / 16,405	5
+PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha	288 / 16,405	5
+ARID1A	AT-rich interaction domain 1A	1,151 / 16,405	5
+STAT6	signal transducer and activator of transcription 6	165 / 16,405	5
+FLNA	filamin A	589 / 16,405	5
+AMER1	APC membrane recruitment protein 1	430 / 16,405	5
+SETDB1	SET domain bifurcated histone lysine methyltransferase 1	296 / 16,405	4
+FBXO11	F-box protein 11	172 / 16,405	4
+SETBP1	SET binding protein 1	532 / 16,405	4
+NTHL1	nth like DNA glycosylase 1	71 / 16,405	3
+CNBD1	cyclic nucleotide binding domain containing 1	245 / 16,405	4
+NCOA1	nuclear receptor coactivator 1	286 / 16,405	4
+ELN	elastin	238 / 16,405	4
+PCM1	pericentriolar material 1	230 / 16,405	4
+MAP3K13	mitogen-activated protein kinase kinase kinase 13	250 / 16,405	4
+MECOM	MDS1 and EVI1 complex locus	443 / 16,405	4
+PER1	period circadian regulator 1	242 / 16,405	4
+EXT1	exostosin glycosyltransferase 1	215 / 16,405	4
+BCR	BCR activator of RhoGEF and GTPase	273 / 16,405	4
+RBM15	RNA binding motif protein 15	220 / 16,405	4
+PMS2	PMS1 homolog 2, mismatch repair system component	222 / 16,405	4
+PPARG	peroxisome proliferator activated receptor gamma	161 / 16,405	4
+MRTFA	myocardin related transcription factor A	203 / 16,405	4
+MLLT10	MLLT10 histone lysine methyltransferase DOT1L cofactor	237 / 16,405	4
+FIP1L1	factor interacting with PAPOLA and CPSF1	151 / 16,405	4
+NRAS	NRAS proto-oncogene, GTPase	837 / 16,405	3
+MDM4	MDM4 regulator of p53	118 / 16,405	4
+MLLT6	MLLT6, PHD finger containing	212 / 16,405	4
+MUC4	mucin 4, cell surface associated	630 / 16,405	4
+CSF3R	colony stimulating factor 3 receptor	242 / 16,405	4
+CDH1	cadherin 1	404 / 16,405	4
+BCL11A	BAF chromatin remodeling complex subunit BCL11A	383 / 16,405	4
+BIRC3	baculoviral IAP repeat containing 3	150 / 16,405	4
+STAT3	signal transducer and activator of transcription 3	214 / 16,405	4
+TBX3	T-box transcription factor 3	278 / 16,405	4
+BCOR	BCL6 corepressor	489 / 16,405	4
+NONO	non-POU domain containing octamer binding	148 / 16,405	4
+AFF3	AF4/FMR2 family member 3	440 / 16,405	4
+MSH2	mutS homolog 2	206 / 16,405	4
+BAZ1A	bromodomain adjacent to zinc finger domain 1A	270 / 16,405	4
+CSF1R	colony stimulating factor 1 receptor	246 / 16,405	4
+LZTR1	leucine zipper like transcription regulator 1	275 / 16,405	4
+NCOR1	nuclear receptor corepressor 1	538 / 16,405	5
+ERBB2	erb-b2 receptor tyrosine kinase 2	353 / 16,405	3

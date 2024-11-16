@@ -1,0 +1,101 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-EJ-A7NJ	TCGA-PRAD	Prostate gland	Male	68	8	4	16	11	3	8	13	1	1	1
+TCGA-3G-AB19	TCGA-THYM	Thymus	Female	70	6	4	16	11	3	10	15	1	1	3
+TCGA-CN-A642	TCGA-HNSC	Other and unspecified parts of tongue	Male	73	8	4	16	11	3	10	16	1	1	2
+TCGA-EE-A2GO	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	9	14	1	1	2
+TCGA-QR-A70W	TCGA-PCPG	Adrenal gland	Male	70	8	4	16	11	3	9	14	1	1	2
+TCGA-BT-A2LB	TCGA-BLCA	Bladder	Female	94	18	8	17	14	3	10	15	1	1	3
+TCGA-CF-A3MI	TCGA-BLCA	Bladder	Male	80	11	4	18	13	3	10	14	1	1	2
+TCGA-ET-A2N5	TCGA-THCA	Thyroid gland	Female	88	12	8	16	11	6	11	15	1	1	3
+TCGA-BT-A3PH	TCGA-BLCA	Bladder	Male	75	12	4	16	11	3	10	14	1	1	2
+TCGA-AR-A5QQ	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+TCGA-YC-A8S6	TCGA-BLCA	Bladder	Male	74	10	4	16	11	3	11	14	1	1	2
+TCGA-S7-A7WR	TCGA-PCPG	Adrenal gland	Female	71	8	4	16	11	3	9	15	1	1	3
+TCGA-66-2758	TCGA-LUSC	Bronchus and lung	Male	91	7	4	31	16	3	8	17	1	1	5
+MMRF_1602	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	18	4	0	14	0	0	0	0	2	1	0
+TCGA-49-AAR4	TCGA-LUAD	Bronchus and lung	Male	74	6	4	16	11	3	8	21	1	1	3
+MMRF_2828	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+ASCProject_0202	CMI-ASC	Breast	Female	17	2	0	14	0	0	1	0	1	1	0
+TCGA-21-5783	TCGA-LUSC	Bronchus and lung	Male	67	8	4	16	11	3	8	13	1	1	1
+TCGA-ZF-AA5N	TCGA-BLCA	Bladder	Female	72	10	4	16	11	3	10	14	1	1	2
+TCGA-CV-7568	TCGA-HNSC	Other and ill-defined sites in lip, oral cavity and pharynx	Female	61	8	4	14	0	3	10	17	1	1	3
+TCGA-QR-A6GW	TCGA-PCPG	Adrenal gland	Female	60	8	4	15	3	3	9	14	1	1	2
+TCGA-AP-A1DV	TCGA-UCEC	Corpus uteri	Female	66	6	4	16	9	3	11	16	1	1	2
+TCGA-AZ-4313	TCGA-COAD	Colon	Female	69	8	4	16	11	3	10	17	1	1	3
+TCGA-D6-A6EN	TCGA-HNSC	Other and unspecified parts of mouth	Male	72	8	4	16	11	3	10	16	2	1	2
+TCGA-ZL-A9V6	TCGA-THYM	Thymus	Male	68	6	4	16	11	3	9	14	1	1	2
+TCGA-XU-A92Q	TCGA-THYM	Thymus	Male	71	8	4	16	11	3	10	14	1	1	2
+TCGA-LL-A740	TCGA-BRCA	Breast	Female	72	8	4	16	11	3	11	14	1	1	2
+TCGA-W2-A7HC	TCGA-PCPG	Adrenal gland	Male	68	6	4	16	11	3	9	14	1	1	2
+TCGA-WB-A81T	TCGA-PCPG	Adrenal gland	Male	70	8	4	16	11	3	9	14	1	1	2
+TCGA-CR-7394	TCGA-HNSC	Other and unspecified parts of tongue	Male	71	8	4	16	11	3	10	15	1	1	1
+TCGA-BJ-A18Y	TCGA-THCA	Thyroid gland	Male	74	10	4	16	11	3	11	14	1	1	2
+TCGA-W2-A7HD	TCGA-PCPG	Adrenal gland	Female	67	6	4	16	11	3	9	14	1	1	2
+TCGA-E7-A8O8	TCGA-BLCA	Bladder	Male	70	10	4	16	8	3	10	14	1	1	2
+TCGA-FT-A3EE	TCGA-BLCA	Bladder	Female	73	11	4	16	11	3	10	14	1	1	2
+TCGA-PR-A5PG	TCGA-PCPG	Adrenal gland	Female	68	6	4	16	11	3	9	14	1	1	2
+TCGA-HD-A4C1	TCGA-HNSC	Other and unspecified parts of mouth	Female	73	8	4	16	11	3	10	16	1	1	2
+TCGA-BA-A6DJ	TCGA-HNSC	Gum	Male	73	8	4	16	11	3	10	16	1	1	2
+TCGA-CN-A63V	TCGA-HNSC	Other and unspecified parts of mouth	Male	73	8	4	16	11	3	10	16	1	1	2
+TCGA-CV-7250	TCGA-HNSC	Larynx	Male	95	13	8	17	14	6	10	18	1	1	4
+TCGA-S3-AA10	TCGA-BRCA	Breast	Female	70	8	4	16	9	3	11	14	1	1	2
+TCGA-2F-A9KO	TCGA-BLCA	Bladder	Male	72	8	4	16	11	3	10	15	1	1	3
+TCGA-ZF-AA58	TCGA-BLCA	Bladder	Female	73	10	4	16	11	3	10	14	1	1	2
+TCGA-CV-6436	TCGA-HNSC	Other and unspecified parts of tongue	Male	75	6	4	16	11	6	10	17	1	1	3
+TCGA-XX-A89A	TCGA-BRCA	Breast	Female	71	8	4	16	11	3	11	14	1	1	2
+TCGA-HI-7168	TCGA-PRAD	Prostate gland	Male	72	10	4	16	11	3	8	15	1	1	3
+TCGA-SR-A6MY	TCGA-PCPG	Adrenal gland	Female	70	8	4	16	11	3	9	14	1	1	2
+C3L-02411	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+TCGA-EO-A22U	TCGA-UCEC	Corpus uteri	Female	74	8	4	16	11	3	11	16	1	1	2
+TCGA-ET-A40P	TCGA-THCA	Thyroid gland	Female	70	8	4	16	9	3	11	14	1	1	2
+100003304	CPTAC-2	Breast	Female	25	5	2	14	0	0	0	0	1	1	0
+TCGA-P3-A6T2	TCGA-HNSC	Other and unspecified parts of mouth	Male	72	8	4	16	11	3	10	16	2	1	2
+TCGA-CM-6161	TCGA-COAD	Colon	Female	73	8	4	16	11	3	9	17	1	1	3
+TCGA-58-8387	TCGA-LUSC	Bronchus and lung	Male	72	8	4	17	14	3	8	14	1	1	2
+C3N-00299	CPTAC-3	Other and ill-defined sites	Male	39	8	4	16	2	3	0	0	1	1	0
+TCGA-XF-AAMW	TCGA-BLCA	Bladder	Female	73	10	4	16	11	3	10	14	1	1	2
+C3N-02027	CPTAC-3	Uterus, NOS	Female	48	11	6	16	2	3	0	0	1	1	0
+TCGA-BJ-A0Z2	TCGA-THCA	Thyroid gland	Male	84	13	4	18	13	3	11	15	1	1	3
+TCGA-QR-A70M	TCGA-PCPG	Adrenal gland	Male	66	8	4	16	8	3	9	14	1	1	2
+TCGA-18-3414	TCGA-LUSC	Bronchus and lung	Male	72	6	4	16	11	6	8	17	1	1	5
+TCGA-CV-A6JD	TCGA-HNSC	Floor of mouth	Female	72	8	4	16	11	3	10	16	1	1	2
+C3N-02976	CPTAC-3	Uterus, NOS	Female	45	10	4	16	2	3	0	0	2	1	0
+TCGA-QR-A6H4	TCGA-PCPG	Adrenal gland	Female	66	8	4	16	8	3	9	14	1	1	2
+TCGA-EL-A3CZ	TCGA-THCA	Thyroid gland	Female	72	8	4	16	11	3	11	14	1	1	2
+TCGA-DK-A1AC	TCGA-BLCA	Bladder	Male	72	10	4	16	9	3	11	14	1	1	2
+TCGA-XM-AAZ3	TCGA-THYM	Heart, mediastinum, and pleura	Male	70	8	4	16	11	3	9	14	1	1	2
+TCGA-S7-A7WN	TCGA-PCPG	Adrenal gland	Male	71	8	4	16	11	3	9	15	1	1	3
+TCGA-HD-A6I0	TCGA-HNSC	Other and unspecified parts of mouth	Male	85	12	8	16	11	3	10	17	1	1	3
+TCGA-EB-A41B	TCGA-SKCM	Skin	Female	69	8	4	16	11	3	8	14	1	1	2
+TCGA-AD-6888	TCGA-COAD	Colon	Male	72	8	4	16	11	3	10	16	1	1	2
+TCGA-CV-7183	TCGA-HNSC	Other and ill-defined sites in lip, oral cavity and pharynx	Male	94	15	8	17	14	3	10	18	1	1	4
+TCGA-WB-A80N	TCGA-PCPG	Adrenal gland	Male	69	8	4	16	11	3	9	14	1	1	2
+HCM-CSHL-0510-D13	HCMI-CMDC	Small intestine	Female	106	17	6	48	6	9	1	1	1	1	0
+TCGA-SP-A6QJ	TCGA-PCPG	Adrenal gland	Female	70	8	4	16	11	3	9	14	1	1	2
+TCGA-E6-A1LX	TCGA-UCEC	Corpus uteri	Female	68	6	4	16	11	3	11	16	1	1	2
+TCGA-IB-7651	TCGA-PAAD	Pancreas	Female	77	8	4	18	11	3	9	17	1	1	3
+11CO036	CPTAC-2	Colon	Male	28	6	4	14	0	0	0	0	1	1	0
+TCGA-HF-A5NB	TCGA-STAD	Stomach	Female	78	9	4	18	13	3	8	16	1	1	2
+TCGA-IQ-A61E	TCGA-HNSC	Other and unspecified parts of tongue	Female	73	8	4	16	11	3	10	16	1	1	2
+TCGA-LP-A4AV	TCGA-CESC	Cervix uteri	Female	73	8	4	16	11	3	10	16	1	1	2
+TCGA-D6-8569	TCGA-HNSC	Other and unspecified parts of tongue	Male	73	8	4	16	11	3	10	17	1	1	3
+TCGA-H7-8501	TCGA-HNSC	Other and unspecified parts of mouth	Male	73	8	4	16	11	3	10	16	1	1	2
+TCGA-DJ-A2QB	TCGA-THCA	Thyroid gland	Female	72	8	4	16	11	3	11	14	1	1	2
+TCGA-WB-A81R	TCGA-PCPG	Adrenal gland	Female	69	8	4	16	11	3	9	14	1	1	2
+TCGA-BJ-A45D	TCGA-THCA	Thyroid gland	Male	76	9	4	17	12	3	11	15	1	1	3
+TCGA-FS-A4FC	TCGA-SKCM	Skin	Female	63	5	2	16	11	3	8	13	1	1	1
+TCGA-EM-A22K	TCGA-THCA	Thyroid gland	Female	71	8	4	16	11	3	11	14	1	1	2
+TCGA-34-5240	TCGA-LUSC	Bronchus and lung	Female	71	10	4	16	11	3	8	15	1	1	3
+TCGA-A6-6781	TCGA-COAD	Colon	Male	152	21	12	47	24	9	9	17	1	1	3
+TCGA-SP-A6QF	TCGA-PCPG	Adrenal gland	Male	69	8	4	16	11	3	9	14	1	1	2
+TCGA-CQ-A4CG	TCGA-HNSC	Other and unspecified parts of mouth	Female	73	8	4	16	11	3	10	16	1	1	2
+TCGA-05-4420	TCGA-LUAD	Bronchus and lung	Male	80	12	4	16	11	3	8	21	1	1	3
+TCGA-AZ-6598	TCGA-COAD	Colon	Female	84	9	6	16	11	6	9	18	1	1	4
+TCGA-AA-3947	TCGA-COAD	Colon	Female	70	9	4	16	11	3	9	17	1	1	3
+TCGA-EY-A5W2	TCGA-UCEC	Corpus uteri	Female	74	8	4	16	11	3	11	16	1	1	2
+TCGA-IQ-7631	TCGA-HNSC	Other and unspecified parts of mouth	Female	72	8	4	16	11	3	10	16	1	1	2
+TCGA-XF-A9T4	TCGA-BLCA	Bladder	Male	73	10	4	16	11	3	10	14	1	1	2
+TCGA-CQ-7068	TCGA-HNSC	Other and ill-defined sites in lip, oral cavity and pharynx	Female	74	8	4	16	11	3	11	16	1	1	2
+TCGA-92-8063	TCGA-LUSC	Bronchus and lung	Male	98	10	4	44	11	3	8	14	1	1	2
+TCGA-AX-A2HG	TCGA-UCEC	Corpus uteri	Female	65	4	4	16	11	3	11	15	1	1	1
+TCGA-ZB-A965	TCGA-THYM	Thymus	Female	71	8	4	16	11	3	10	14	1	1	2

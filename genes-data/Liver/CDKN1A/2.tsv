@@ -1,0 +1,11 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-ZF-A9R1	TCGA-BLCA	Bladder	Male	73	10	4	16	11	3	10	14	1	1	2
+C3L-02665	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+TCGA-CD-A4MG	TCGA-STAD	Stomach	Male	71	8	4	16	11	3	8	16	1	1	2
+TCGA-CF-A7I0	TCGA-BLCA	Bladder	Male	72	10	4	16	11	3	10	14	1	1	2
+TCGA-EK-A3GM	TCGA-CESC	Cervix uteri	Female	74	10	4	16	11	3	10	15	1	1	1
+TCGA-BR-4361	TCGA-STAD	Stomach	Female	77	8	4	16	11	6	8	19	1	1	5
+TCGA-DS-A1OA	TCGA-CESC	Cervix uteri	Female	57	6	4	14	0	3	10	15	1	1	1
+TCGA-13-1403	TCGA-OV	Ovary	Female	83	8	4	30	11	3	9	14	1	1	2
+TCGA-CF-A3MG	TCGA-BLCA	Bladder	Male	75	12	4	16	11	3	10	14	1	1	2
+TCGA-4Z-AA7S	TCGA-BLCA	Bladder	Male	73	10	4	16	11	3	10	14	1	1	2

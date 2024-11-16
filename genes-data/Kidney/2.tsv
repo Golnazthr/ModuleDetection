@@ -1,0 +1,101 @@
+Symbol	Name	# SSM Affected Cases Across the GDC	# Mutations
+POLQ	DNA polymerase theta	528 / 16,405	8
+HIF1A	hypoxia inducible factor 1 subunit alpha	177 / 16,405	8
+SGK1	serum/glucocorticoid regulated kinase 1	213 / 16,405	8
+TET2	tet methylcytosine dioxygenase 2	334 / 16,405	8
+TP63	tumor protein p63	401 / 16,405	8
+ABL2	ABL proto-oncogene 2, non-receptor tyrosine kinase	299 / 16,405	8
+TERT	telomerase reverse transcriptase	254 / 16,405	9
+NTRK3	neurotrophic receptor tyrosine kinase 3	504 / 16,405	8
+PTPRC	protein tyrosine phosphatase receptor type C	485 / 16,405	9
+NOTCH1	notch receptor 1	806 / 16,405	8
+KIAA1549	KIAA1549	468 / 16,405	8
+GRM3	glutamate metabotropic receptor 3	528 / 16,405	8
+MYO5A	myosin VA	364 / 16,405	8
+ROBO2	roundabout guidance receptor 2	668 / 16,405	8
+ARHGAP5	Rho GTPase activating protein 5	360 / 16,405	8
+PDE4DIP	phosphodiesterase 4D interacting protein	434 / 16,405	7
+ACVR2A	activin A receptor type 2A	375 / 16,405	7
+DAXX	death domain associated protein	179 / 16,405	7
+FBXO11	F-box protein 11	172 / 16,405	7
+NCOA4	nuclear receptor coactivator 4	117 / 16,405	7
+MED12	mediator complex subunit 12	556 / 16,405	7
+NCOA1	nuclear receptor coactivator 1	286 / 16,405	7
+ZMYM2	zinc finger MYM-type containing 2	287 / 16,405	7
+ANK1	ankyrin 1	700 / 16,405	7
+MRTFA	myocardin related transcription factor A	203 / 16,405	8
+NCOR2	nuclear receptor corepressor 2	514 / 16,405	7
+CSF3R	colony stimulating factor 3 receptor	242 / 16,405	7
+KRAS	KRAS proto-oncogene, GTPase	1,762 / 16,405	4
+FBLN2	fibulin 2	281 / 16,405	7
+KDR	kinase insert domain receptor	501 / 16,405	7
+VAV1	vav guanine nucleotide exchange factor 1	277 / 16,405	7
+BRCA1	BRCA1 DNA repair associated	366 / 16,405	8
+IL6ST	interleukin 6 signal transducer	186 / 16,405	7
+SALL4	spalt like transcription factor 4	373 / 16,405	7
+AFF1	AF4/FMR2 family member 1	271 / 16,405	7
+COL2A1	collagen type II alpha 1 chain	404 / 16,405	7
+DROSHA	drosha ribonuclease III	280 / 16,405	7
+CNTRL	centriolin	351 / 16,405	7
+ASXL2	ASXL transcriptional regulator 2	343 / 16,405	7
+CARD11	caspase recruitment domain family member 11	482 / 16,405	7
+NSD3	nuclear receptor binding SET domain protein 3	296 / 16,405	7
+NUP98	nucleoporin 98 and 96 precursor	327 / 16,405	8
+MAP3K1	mitogen-activated protein kinase kinase kinase 1	384 / 16,405	7
+KAT6B	lysine acetyltransferase 6B	348 / 16,405	6
+PDGFRA	platelet derived growth factor receptor alpha	440 / 16,405	7
+SETDB1	SET domain bifurcated histone lysine methyltransferase 1	296 / 16,405	6
+SUZ12	SUZ12 polycomb repressive complex 2 subunit	148 / 16,405	6
+NTRK1	neurotrophic receptor tyrosine kinase 1	258 / 16,405	6
+LMNA	lamin A/C	156 / 16,405	6
+DICER1	dicer 1, ribonuclease III	385 / 16,405	6
+PER1	period circadian regulator 1	242 / 16,405	6
+ERBB3	erb-b2 receptor tyrosine kinase 3	380 / 16,405	6
+CTNND2	catenin delta 2	677 / 16,405	6
+ZNF479	zinc finger protein 479	386 / 16,405	6
+MAX	MYC associated factor X	141 / 16,405	6
+TRRAP	transformation/transcription domain associated protein	749 / 16,405	6
+N4BP2	NEDD4 binding protein 2	304 / 16,405	6
+LATS1	large tumor suppressor kinase 1	285 / 16,405	6
+AKT2	AKT serine/threonine kinase 2	167 / 16,405	6
+CSF1R	colony stimulating factor 1 receptor	246 / 16,405	6
+COL1A1	collagen type I alpha 1 chain	383 / 16,405	6
+WNK2	WNK lysine deficient protein kinase 2	461 / 16,405	6
+CIITA	class II major histocompatibility complex transactivator	319 / 16,405	6
+ZMYM3	zinc finger MYM-type containing 3	322 / 16,405	6
+FGFR4	fibroblast growth factor receptor 4	234 / 16,405	6
+KEAP1	kelch like ECH associated protein 1	374 / 16,405	6
+XPO1	exportin 1	196 / 16,405	6
+KDM5A	lysine demethylase 5A	358 / 16,405	6
+JAK1	Janus kinase 1	371 / 16,405	6
+EIF4A2	eukaryotic translation initiation factor 4A2	204 / 16,405	6
+PRPF40B	pre-mRNA processing factor 40 homolog B	200 / 16,405	6
+BLM	BLM RecQ like helicase	261 / 16,405	6
+CTNNA2	catenin alpha 2	665 / 16,405	6
+FUBP1	far upstream element binding protein 1	227 / 16,405	6
+MYH9	myosin heavy chain 9	483 / 16,405	6
+AXIN1	axin 1	243 / 16,405	7
+JAK2	Janus kinase 2	291 / 16,405	6
+PRDM2	PR/SET domain 2	333 / 16,405	6
+TAF15	TATA-box binding protein associated factor 15	154 / 16,405	6
+TRIM33	tripartite motif containing 33	212 / 16,405	7
+KAT7	lysine acetyltransferase 7	149 / 16,405	6
+MSH6	mutS homolog 6	318 / 16,405	5
+RPL22	ribosomal protein L22	263 / 16,405	5
+BUB1B	BUB1 mitotic checkpoint serine/threonine kinase B	169 / 16,405	5
+BRD4	bromodomain containing 4	264 / 16,405	5
+BRAF	B-Raf proto-oncogene, serine/threonine kinase	963 / 16,405	4
+ASXL1	ASXL transcriptional regulator 1	403 / 16,405	5
+KTN1	kinectin 1	212 / 16,405	5
+MUTYH	mutY DNA glycosylase	128 / 16,405	5
+TBL1XR1	TBL1X receptor 1	194 / 16,405	5
+COL3A1	collagen type III alpha 1 chain	583 / 16,405	5
+MECOM	MDS1 and EVI1 complex locus	443 / 16,405	5
+MYCN	MYCN proto-oncogene, bHLH transcription factor	178 / 16,405	5
+RBM15	RNA binding motif protein 15	220 / 16,405	5
+SFPQ	splicing factor proline and glutamine rich	115 / 16,405	5
+GLI1	GLI family zinc finger 1	328 / 16,405	5
+FLCN	folliculin	166 / 16,405	5
+MLLT10	MLLT10 histone lysine methyltransferase DOT1L cofactor	237 / 16,405	5
+PML	PML nuclear body scaffold	261 / 16,405	6
+FIP1L1	factor interacting with PAPOLA and CPSF1	151 / 16,405	5

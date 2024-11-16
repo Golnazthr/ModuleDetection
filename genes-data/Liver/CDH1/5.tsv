@@ -1,0 +1,5 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-AC-A2FF	TCGA-BRCA	Breast	Female	83	9	6	16	11	6	11	15	1	1	3
+MMRF_2477	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	18	4	0	14	0	0	0	0	1	1	0
+TCGA-BR-4279	TCGA-STAD	Stomach	Male	79	10	4	16	11	6	8	19	2	1	5
+TCGA-50-6590	TCGA-LUAD	Bronchus and lung	Female	77	8	4	16	11	3	8	22	1	1	4

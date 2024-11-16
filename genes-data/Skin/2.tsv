@@ -1,0 +1,101 @@
+Symbol	Name	# SSM Affected Cases Across the GDC	# Mutations
+ATR	ATR serine/threonine kinase	495 / 16,405	50
+ZNF331	zinc finger protein 331	207 / 16,405	46
+MTOR	mechanistic target of rapamycin kinase	515 / 16,405	50
+NUTM1	NUT midline carcinoma family member 1	309 / 16,405	56
+DICER1	dicer 1, ribonuclease III	385 / 16,405	39
+SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	580 / 16,405	47
+BRCA2	BRCA2 DNA repair associated	566 / 16,405	45
+MACC1	MET transcriptional regulator MACC1	234 / 16,405	45
+BCL11B	BAF chromatin remodeling complex subunit BCL11B	350 / 16,405	43
+PRDM1	PR/SET domain 1	272 / 16,405	40
+ITK	IL2 inducible T cell kinase	238 / 16,405	47
+NOTCH2	notch receptor 2	430 / 16,405	50
+NTRK1	neurotrophic receptor tyrosine kinase 1	258 / 16,405	42
+UBR5	ubiquitin protein ligase E3 component n-recognin 5	559 / 16,405	46
+FCRL4	Fc receptor like 4	225 / 16,405	42
+ELN	elastin	238 / 16,405	42
+CHD4	chromodomain helicase DNA binding protein 4	552 / 16,405	41
+NCOR1	nuclear receptor corepressor 1	538 / 16,405	39
+CDH11	cadherin 11	492 / 16,405	46
+TSC2	TSC complex subunit 2	387 / 16,405	41
+RET	ret proto-oncogene	365 / 16,405	47
+BCL2L12	BCL2 like 12	99 / 16,405	15
+ATRX	ATRX chromatin remodeler	813 / 16,405	38
+ATM	ATM serine/threonine kinase	757 / 16,405	41
+KAT6A	lysine acetyltransferase 6A	415 / 16,405	38
+BRD4	bromodomain containing 4	264 / 16,405	45
+BCR	BCR activator of RhoGEF and GTPase	273 / 16,405	45
+ARID1B	AT-rich interaction domain 1B	477 / 16,405	36
+CIC	capicua transcriptional repressor	462 / 16,405	41
+ARID1A	AT-rich interaction domain 1A	1,151 / 16,405	41
+FLNA	filamin A	589 / 16,405	38
+GLI1	GLI family zinc finger 1	328 / 16,405	38
+PPP6C	protein phosphatase 6 catalytic subunit	122 / 16,405	21
+ASXL2	ASXL transcriptional regulator 2	343 / 16,405	37
+MYH9	myosin heavy chain 9	483 / 16,405	39
+KAT6B	lysine acetyltransferase 6B	348 / 16,405	43
+NSD1	nuclear receptor binding SET domain protein 1	561 / 16,405	40
+LCK	LCK proto-oncogene, Src family tyrosine kinase	167 / 16,405	37
+N4BP2	NEDD4 binding protein 2	304 / 16,405	33
+CLTCL1	clathrin heavy chain like 1	315 / 16,405	35
+PDGFRB	platelet derived growth factor receptor beta	264 / 16,405	45
+IL21R	interleukin 21 receptor	239 / 16,405	39
+HNF1A	HNF1 homeobox A	220 / 16,405	37
+EP300	E1A binding protein p300	566 / 16,405	36
+CBLB	Cbl proto-oncogene B	270 / 16,405	34
+MED12	mediator complex subunit 12	556 / 16,405	31
+CRNKL1	crooked neck pre-mRNA splicing factor 1	200 / 16,405	27
+FGFR4	fibroblast growth factor receptor 4	234 / 16,405	27
+KDM5A	lysine demethylase 5A	358 / 16,405	36
+ZBTB16	zinc finger and BTB domain containing 16	225 / 16,405	36
+RAC1	Rac family small GTPase 1	105 / 16,405	10
+NUP98	nucleoporin 98 and 96 precursor	327 / 16,405	33
+TSHR	thyroid stimulating hormone receptor	244 / 16,405	31
+NUP214	nucleoporin 214	360 / 16,405	33
+MAP2K1	mitogen-activated protein kinase kinase 1	148 / 16,405	15
+ERG	ETS transcription factor ERG	216 / 16,405	29
+BCL9L	BCL9 like	347 / 16,405	32
+DDX3X	DEAD-box helicase 3 X-linked	305 / 16,405	27
+AFDN	afadin, adherens junction formation factor	416 / 16,405	30
+NIN	ninein	384 / 16,405	32
+PPARG	peroxisome proliferator activated receptor gamma	161 / 16,405	29
+BCORL1	BCL6 corepressor like 1	516 / 16,405	34
+ATP2B3	ATPase plasma membrane Ca2+ transporting 3	427 / 16,405	31
+CTNNB1	catenin beta 1	547 / 16,405	25
+AMER1	APC membrane recruitment protein 1	430 / 16,405	26
+PBRM1	polybromo 1	579 / 16,405	31
+CNBD1	cyclic nucleotide binding domain containing 1	245 / 16,405	28
+PTPN13	protein tyrosine phosphatase non-receptor type 13	444 / 16,405	34
+MAP3K13	mitogen-activated protein kinase kinase kinase 13	250 / 16,405	29
+BCOR	BCL6 corepressor	489 / 16,405	30
+TET2	tet methylcytosine dioxygenase 2	334 / 16,405	33
+FANCD2	FA complementation group D2	272 / 16,405	29
+CNTRL	centriolin	351 / 16,405	30
+WRN	WRN RecQ like helicase	263 / 16,405	28
+NOTCH1	notch receptor 1	806 / 16,405	31
+ZNF521	zinc finger protein 521	536 / 16,405	30
+IDH1	isocitrate dehydrogenase (NADP(+)) 1	595 / 16,405	9
+ARHGEF12	Rho guanine nucleotide exchange factor 12	305 / 16,405	26
+KCNJ5	potassium inwardly rectifying channel subfamily J member 5	160 / 16,405	30
+SYK	spleen associated tyrosine kinase	178 / 16,405	26
+FOXP1	forkhead box P1	280 / 16,405	27
+MN1	MN1 proto-oncogene, transcriptional regulator	292 / 16,405	29
+KNSTRN	kinetochore localized astrin (SPAG5) binding protein	120 / 16,405	12
+CSF1R	colony stimulating factor 1 receptor	246 / 16,405	32
+ACSL6	acyl-CoA synthetase long chain family member 6	215 / 16,405	28
+BCL9	BCL9 transcription coactivator	338 / 16,405	29
+AFF4	AF4/FMR2 family member 4	241 / 16,405	26
+CBL	Cbl proto-oncogene	205 / 16,405	29
+PBX1	PBX homeobox 1	184 / 16,405	26
+TERT	telomerase reverse transcriptase	254 / 16,405	33
+PRDM2	PR/SET domain 2	333 / 16,405	29
+ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase	260 / 16,405	26
+ARHGEF10	Rho guanine nucleotide exchange factor 10	316 / 16,405	25
+SETD2	SET domain containing 2, histone lysine methyltransferase	633 / 16,405	27
+PML	PML nuclear body scaffold	261 / 16,405	27
+CHD2	chromodomain helicase DNA binding protein 2	354 / 16,405	31
+ACKR3	atypical chemokine receptor 3	153 / 16,405	27
+SF3B1	splicing factor 3b subunit 1	366 / 16,405	25
+FBLN2	fibulin 2	281 / 16,405	28
+KIT	KIT proto-oncogene, receptor tyrosine kinase	336 / 16,405	19

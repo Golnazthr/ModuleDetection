@@ -1,0 +1,6 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-CN-6018	TCGA-HNSC	Other and ill-defined sites in lip, oral cavity and pharynx	Female	76	10	4	16	11	3	10	17	1	1	3
+TCGA-A5-A0G2	TCGA-UCEC	Corpus uteri	Female	69	8	4	16	9	3	11	17	1	1	3
+MMRF_2339	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Female	27	7	2	14	0	0	0	0	1	1	0
+TCGA-GR-7351	TCGA-DLBC	Thyroid gland	Female	63	6	2	16	11	3	8	13	1	1	1
+TCGA-FA-A82F	TCGA-DLBC	Small intestine	Female	69	8	4	16	11	3	8	14	3	1	2

@@ -1,0 +1,101 @@
+Case ID	Project	Primary Site	Gender	Files	Seq	Exp	SNV	CNV	Meth	Clinical	Bio	# Mutations	# Genes	Slides
+TCGA-DX-A7EN	TCGA-SARC	Retroperitoneum and peritoneum	Female	71	8	4	16	11	3	9	15	2	1	3
+TCGA-C8-A12Z	TCGA-BRCA	Breast	Female	73	8	4	16	11	3	11	15	1	1	3
+TCGA-E6-A8L9	TCGA-UCEC	Corpus uteri	Female	73	6	4	16	11	3	12	16	1	1	2
+TCGA-XF-A9T6	TCGA-BLCA	Bladder	Female	74	10	4	16	11	3	11	14	2	1	2
+TCGA-96-A4JK	TCGA-LUSC	Bronchus and lung	Male	70	8	4	16	11	3	9	14	1	1	2
+C3N-04277	CPTAC-3	Other and ill-defined sites	Male	60	15	10	16	2	3	0	0	1	1	0
+TCGA-CV-6934	TCGA-HNSC	Other and unspecified parts of tongue	Female	95	13	8	17	14	6	10	18	1	1	4
+TCGA-BA-5151	TCGA-HNSC	Other and unspecified parts of mouth	Male	72	10	4	16	7	3	10	17	1	1	3
+TCGA-AG-4015	TCGA-READ	Colon	Female	71	10	4	16	11	3	9	17	1	1	3
+TCGA-EQ-8122	TCGA-STAD	Stomach	Female	74	8	4	17	12	3	8	17	1	1	3
+TCGA-36-2537	TCGA-OV	Ovary	Female	64	4	0	18	13	3	9	14	1	1	2
+26OV002	CPTAC-2	Ovary	Female	28	6	4	14	0	0	0	0	2	1	0
+TCGA-AZ-4681	TCGA-COAD	Colon	Female	67	6	4	16	11	3	10	17	1	1	3
+TCGA-LP-A5U2	TCGA-CESC	Cervix uteri	Female	73	8	4	16	11	3	10	16	1	1	2
+TCGA-13-1496	TCGA-OV	Ovary	Female	70	8	4	16	11	3	9	14	1	1	2
+TCGA-49-4488	TCGA-LUAD	Bronchus and lung	Female	90	8	4	16	11	6	8	32	1	1	14
+TCGA-62-8402	TCGA-LUAD	Bronchus and lung	Female	74	8	4	16	11	3	8	20	1	1	2
+TCGA-UE-A6QT	TCGA-SARC	Connective, subcutaneous and other soft tissues	Female	70	8	4	16	11	3	9	14	1	1	2
+C3N-01025	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+05BR038	CPTAC-2	Breast	Female	28	6	4	14	0	0	0	0	1	1	0
+C3N-01194	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+TCGA-ZF-AA51	TCGA-BLCA	Bladder	Female	79	10	4	18	13	3	10	14	1	1	2
+C3N-04276	CPTAC-3	Other and ill-defined sites	Male	39	8	4	16	2	3	0	0	1	1	0
+TCGA-56-7221	TCGA-LUSC	Bronchus and lung	Male	76	8	4	18	13	3	9	14	2	1	2
+TCGA-CV-7242	TCGA-HNSC	Larynx	Female	92	13	8	17	14	3	10	18	1	1	4
+HCM-BROD-0455-C71	HCMI-CMDC	Brain	Male	66	12	4	30	2	6	1	1	1	1	0
+TCGA-13-0805	TCGA-OV	Ovary	Female	65	5	2	18	13	3	9	13	1	1	2
+TCGA-97-7937	TCGA-LUAD	Bronchus and lung	Male	76	9	4	16	11	3	8	20	1	1	2
+TCGA-LN-A9FQ	TCGA-ESCA	Esophagus	Male	81	11	4	18	13	3	9	16	2	1	2
+TCGA-18-3419	TCGA-LUSC	Bronchus and lung	Male	71	6	4	16	11	6	8	16	1	1	4
+TCGA-3C-AALI	TCGA-BRCA	Breast	Female	73	8	4	16	11	3	11	15	1	1	3
+TCGA-CV-7103	TCGA-HNSC	Other and unspecified parts of tongue	Male	94	13	8	17	14	6	10	17	1	1	3
+TCGA-CU-A3KJ	TCGA-BLCA	Bladder	Male	76	12	4	16	11	3	11	14	1	1	2
+TCGA-DM-A1DA	TCGA-COAD	Colon	Female	71	7	4	16	11	3	9	16	1	1	2
+TCGA-09-1675	TCGA-OV	Ovary	Female	63	4	0	18	13	3	9	14	1	1	2
+TCGA-VQ-A91X	TCGA-STAD	Stomach	Male	73	10	4	16	11	3	8	16	1	1	2
+TCGA-3E-AAAY	TCGA-PAAD	Pancreas	Male	77	8	4	18	12	3	9	17	1	1	3
+TCGA-VP-A876	TCGA-PRAD	Prostate gland	Male	68	8	4	16	11	3	8	14	1	1	2
+C3N-03848	CPTAC-3	Bronchus and lung	Female	55	13	8	16	2	6	0	0	1	1	0
+TCGA-29-2432	TCGA-OV	Ovary	Female	64	4	0	18	13	3	9	14	1	1	2
+TCGA-EE-A2MM	TCGA-SKCM	Skin	Female	67	6	4	16	11	3	8	14	1	1	2
+TCGA-CV-7248	TCGA-HNSC	Larynx	Female	80	9	4	17	14	3	10	18	1	1	4
+TCGA-3G-AB14	TCGA-THYM	Thymus	Male	68	6	4	16	11	3	9	14	1	1	2
+11LU016	CPTAC-3	Bronchus and lung	Male	39	8	4	16	2	3	0	0	1	1	0
+04OV011	CPTAC-2	Other and unspecified female genital organs	Female	28	6	4	14	0	0	0	0	1	1	0
+C3L-02834	CPTAC-3	Bronchus and lung	Female	56	14	8	16	2	6	0	0	1	1	0
+TCGA-4Z-AA7Q	TCGA-BLCA	Bladder	Male	74	10	4	16	11	3	11	14	1	1	2
+TCGA-AO-A0JB	TCGA-BRCA	Breast	Female	78	9	4	18	11	3	11	15	1	1	3
+TCGA-N8-A4PI	TCGA-UCS	Uterus, NOS	Female	72	8	4	16	11	3	9	16	2	1	2
+TCGA-60-2712	TCGA-LUSC	Bronchus and lung	Female	87	8	4	30	11	3	9	17	1	1	5
+TCGA-VR-AA4G	TCGA-ESCA	Esophagus	Female	70	8	4	16	10	3	9	16	2	1	2
+TCGA-CA-5797	TCGA-COAD	Colon	Male	73	8	4	16	11	3	9	17	1	1	3
+C3N-01948	CPTAC-3	Other and ill-defined sites	Female	60	15	10	16	2	3	0	0	1	1	0
+TCGA-06-6694	TCGA-GBM	Brain	Female	57	4	0	16	11	3	9	13	1	1	2
+CDDP-ABLQ	CDDP_EAGLE-1	Bronchus and lung	Female	36	7	2	16	2	0	2	1	1	1	0
+TCGA-CV-A6JN	TCGA-HNSC	Other and unspecified parts of mouth	Male	70	6	4	16	11	3	10	16	1	1	2
+TCGA-14-0817	TCGA-GBM	Brain	Female	82	9	2	28	11	3	9	16	1	1	5
+TCGA-BH-A0BF	TCGA-BRCA	Breast	Female	79	8	4	16	11	6	11	18	1	1	6
+C3L-02646	CPTAC-3	Bronchus and lung	Male	39	8	4	16	2	3	0	0	1	1	0
+TCGA-AA-3980	TCGA-COAD	Colon	Female	62	5	4	16	8	3	9	17	1	1	3
+TCGA-29-1781	TCGA-OV	Ovary	Female	70	8	4	16	11	3	9	14	1	1	2
+MMRF_2015	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	52	12	4	28	0	0	0	0	1	1	0
+TCGA-AX-A2HK	TCGA-UCEC	Corpus uteri	Female	67	6	4	16	11	3	11	15	1	1	1
+C3N-02919	CPTAC-3	Bronchus and lung	Male	55	13	8	16	2	6	0	0	1	1	0
+TCGA-CN-A640	TCGA-HNSC	Other and unspecified parts of tongue	Female	64	5	2	16	11	3	10	16	1	1	2
+TCGA-G2-AA3B	TCGA-BLCA	Bladder	Female	77	10	4	16	11	3	10	18	1	1	6
+TCGA-D6-A4Z9	TCGA-HNSC	Other and unspecified parts of tongue	Male	73	8	4	16	11	3	10	16	1	1	2
+TCGA-UY-A9PH	TCGA-BLCA	Bladder	Male	73	10	4	16	11	3	11	14	1	1	2
+TCGA-CV-6935	TCGA-HNSC	Larynx	Male	93	11	8	17	14	6	10	18	1	1	4
+HCM-BROD-0613-C71	HCMI-CMDC	Brain	Male	72	12	4	32	4	6	1	1	1	1	0
+TCGA-BB-4224	TCGA-HNSC	Other and unspecified parts of tongue	Male	73	8	4	16	11	3	10	17	2	1	3
+TCGA-DI-A1NN	TCGA-UCEC	Corpus uteri	Female	72	6	4	16	11	6	11	17	1	1	3
+TCGA-HT-7472	TCGA-LGG	Brain	Male	73	8	4	16	11	3	8	18	1	1	6
+C3N-00857	CPTAC-3	Other and ill-defined sites	Male	39	8	4	16	2	3	0	0	1	1	0
+TCGA-VS-A9V1	TCGA-CESC	Cervix uteri	Female	72	8	4	16	11	3	10	16	1	1	2
+MBCProject_1160	CMI-MBC	Breast	Female	40	6	2	28	0	0	0	0	1	1	0
+TCGA-AP-A05D	TCGA-UCEC	Corpus uteri	Female	69	7	2	16	11	3	12	17	1	1	3
+TCGA-VQ-A8PP	TCGA-STAD	Stomach	Male	73	10	4	16	11	3	8	16	2	1	2
+TCGA-BT-A2LD	TCGA-BLCA	Bladder	Female	72	12	4	16	7	3	11	14	1	1	2
+TCGA-23-1032	TCGA-OV	Ovary	Female	68	6	4	16	11	3	9	15	1	1	3
+TCGA-77-A5G8	TCGA-LUSC	Bronchus and lung	Male	68	8	4	16	11	3	8	14	1	1	2
+TCGA-VQ-A8PY	TCGA-STAD	Stomach	Female	60	6	0	16	11	3	8	16	1	1	2
+C3N-00709	CPTAC-3	Pancreas	Male	39	8	4	16	2	3	0	0	1	1	0
+TCGA-32-1970	TCGA-GBM	Brain	Male	85	11	2	30	11	3	9	14	1	1	2
+TCGA-27-2521	TCGA-GBM	Brain	Male	83	9	2	30	11	3	9	15	1	1	3
+TCGA-AY-A54L	TCGA-COAD	Colon	Female	71	9	4	16	9	3	9	16	1	1	2
+TCGA-AO-A12D	TCGA-BRCA	Breast	Female	80	9	4	18	13	3	11	15	1	1	3
+TCGA-EE-A2MU	TCGA-SKCM	Skin	Male	67	6	4	16	11	3	8	14	1	1	2
+TCGA-DX-A3UE	TCGA-SARC	Connective, subcutaneous and other soft tissues	Female	70	8	4	16	11	3	9	14	1	1	2
+TCGA-CQ-5332	TCGA-HNSC	Other and ill-defined sites in lip, oral cavity and pharynx	Male	74	8	4	16	11	3	10	17	1	1	3
+TCGA-CV-5976	TCGA-HNSC	Other and unspecified parts of tongue	Male	77	10	4	16	9	6	10	17	2	1	3
+MMRF_1774	MMRF-COMMPASS	Hematopoietic and reticuloendothelial systems	Male	18	4	0	14	0	0	0	0	1	1	0
+TCGA-13-1507	TCGA-OV	Ovary	Female	70	8	4	16	11	3	9	14	1	1	2
+TCGA-DU-A7TC	TCGA-LGG	Brain	Male	68	8	4	16	11	3	8	14	1	1	2
+TCGA-AG-A00C	TCGA-READ	Rectum	Female	79	7	4	30	7	3	9	18	1	1	4
+TCGA-RC-A7SB	TCGA-LIHC	Liver and intrahepatic bile ducts	Male	70	8	4	16	11	3	10	14	1	1	2
+C3L-02650	CPTAC-3	Bronchus and lung	Male	56	14	8	16	2	6	0	0	1	1	0
+TCGA-IN-8462	TCGA-STAD	Stomach	Male	86	12	8	17	12	3	8	17	1	1	3
+TCGA-05-4397	TCGA-LUAD	Bronchus and lung	Male	79	11	4	16	11	3	8	21	1	1	3
+C3L-03976	CPTAC-3	Bronchus and lung	Male	55	13	8	16	2	6	0	0	1	1	0
