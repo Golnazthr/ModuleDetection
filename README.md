@@ -1,5 +1,5 @@
 This repository contains two folders: **GenePioneer**, a Python package for gene analysis, and **Genes-Data**, a collection of data gathered using a web scraper.
-### GenePioneer: A Comprehensive Python Package for Identification of Essential Genes and Modules in Cancer
+# GenePioneer: A Comprehensive Python Package for Identification of Essential Genes and Modules in Cancer
 
 ## Description
 
