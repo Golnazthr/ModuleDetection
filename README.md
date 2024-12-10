@@ -21,7 +21,9 @@ Amirhossein Haerianardakani, haerian.amirhossein[at]gmail.com
 
 If you encounter a bug, experience a failed function, or have a feature request, please open an issue in the GitHub or contact Amirhossein.
 
+## License
 
+This project is licensed under the MIT License - [MIT License](https://opensource.org/licenses/MIT)
 
 
 ### Installation
