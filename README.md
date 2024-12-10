@@ -10,6 +10,7 @@ The GenePioneer was developed as a fast and straightforward way to integrate gen
 and can be run within a Python environment, making it highly user-friendly and accessible to non expert programmers while supporting large-scale dataset analysis. By evaluating gene importance and identifying gene interactions within cancer
 networks, GenePioneer provides critical insights into the genetic drivers of cancer. Key features include ranking genes by their network significance and identifying the modules they belong to, which helps explore cancer-related pathways and aids in developing precise therapies. GenePioneer’s user-centric design ensures that researchers of all skill levels can make use of its capabilities. By combining comprehensive data integration, advanced networkbased analysis, and statistical rigor, GenePioneer stands as a versatile and impactful resource for cancer research across multiple cancer types.
 
+![Image description](Workflow.pdf)
 
 ### Questions about the implementation:
 
