@@ -17,6 +17,8 @@ The GenePioneer was developed as a fast and straightforward way to integrate gen
 ### Questions about the implementation:
 
 Amirhossein Haerianardakani, haerian.amirhossein[at]gmail.com
+
+
 If you encounter a bug, experience a failed function, or have a feature request, please open an issue in the GitHub or contact Amirhossein.
 
 
