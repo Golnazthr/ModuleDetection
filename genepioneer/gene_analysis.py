@@ -4,10 +4,15 @@ import pandas as pd
 import networkx as nx
 import pkg_resources
 
+import os
+
 class GeneAnalysis:
 
-    def __init__(self, cancer_type, input_path):
+    def __init__(self, cancer_type, input_path, cancer_gene_path=None, module_data_path=None):
         self.cancer_type = cancer_type
+        
+        self.cancer_gene_path = cancer_gene_path or pkg_resources.resource_filename(__name__, f"Data/cancer-gene-data")
+        self.module_data_path = module_data_path or pkg_resources.resource_filename(__name__, f"Data/module-data")
         
         self.genes = self.load_genes()
         self.modules = self.load_modules()
@@ -16,7 +21,7 @@ class GeneAnalysis:
                 
 
     def load_genes(self):
-        data_path = pkg_resources.resource_filename(__name__, f"Data/cancer-gene-data/{self.cancer_type}_network_features.csv")
+        data_path = os.path.join(self.cancer_gene_path, f"{self.cancer_type}_network_features.csv")
         df = pd.read_csv(data_path)
 
         gene_data = df.to_dict(orient='records')
@@ -24,7 +29,7 @@ class GeneAnalysis:
         return gene_data
     
     def load_modules(self):
-        data_path = pkg_resources.resource_filename(__name__, f"Data/module-data/{self.cancer_type}.json")
+        data_path = os.path.join(self.module_data_path, f"{self.cancer_type}.json")
         with open(data_path, 'r') as file:
             data = json.load(file)
         
